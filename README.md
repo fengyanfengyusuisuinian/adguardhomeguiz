@@ -35,6 +35,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/superbigsteam/adguardhomeg
     <li><a href="https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt">CJX's Annoyance List</a></li>
     <li><a href="https://ghps.cc/https://raw.githubusercontent.com/sccheng460/me/master/rules.txt">sccheng460的自用名单</a></li>
     <li><a href="https://raw.gitmirror.com/wycxqsf/AD--/main/%E8%87%AA%E7%94%A8%E8%A7%84%E5%88%993.0.txt">wycxqsf的拦截小说广告</a></li>
+    <li><a href="https://share.yyycontrol.top/d/Rules/YYYCustomRules/YYYCustomRules.txt">MoonWWY的YYYCustomRules</a></li>
 
 
 
