@@ -69,7 +69,7 @@ application:
         path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt 
 
       - name: CJX's Annoyance List
-        path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt 
+        path: https://filters.adtidy.org/extension/ublock/filters/220.txt 
 
         - name: sccheng460 me
         path: https://raw.githubusercontent.com/sccheng460/me/master/rules.txt
