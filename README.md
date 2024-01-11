@@ -7,12 +7,11 @@
 
 | 名称            | 说明                                   |                                       Github                                        |                                                 ghproxy                                                 |
 |---------------|:-------------------------------------|:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
-| `all.txt`     | 完整规则，适用于 `AdGuard`、`AdBlock`等        |   [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt)   |   [Link](https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt)   |
-| `dns.txt`     | 适用于 `AdGuard Home` 等基于DNS的过滤工具       |   [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt)   |   [Link](https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt)   |
-| `hosts.txt`   | 仅包含 `HOSTS` 规则                       |  [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/hosts.txt)  |  [Link](https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/hosts.txt)  |
-| `modify.txt`  | `modify.txt` + `dns.txt` = `all.txt` | [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/modify.txt)  | [Link](https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/modify.txt)  |
-| `private.txt` | 由本仓库维护的私有规则，主要是对上游规则的补充              | [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt) | [Link](https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt) |
-
+| `all.txt`     | 完整规则，适用于 `AdGuard`、`AdBlock`等        |   [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/all.txt)   |   [Link](https://ghproxy.net/https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/all.txt)   |
+| `dns.txt`     | 适用于 `AdGuard Home` 等基于DNS的过滤工具       |   [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/dns.txt)   |   [Link](https://ghproxy.net/https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/dns.txt)   |
+| `hosts.txt`   | 仅包含 `HOSTS` 规则                       |  [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/hosts.txt)  |  [Link](
+https://ghproxy.net/https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/hosts.txt)  |
+| `modify.txt`  | `modify.txt` + `dns.txt` = `all.txt` | [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/modify.txt)  | [Link](https://ghproxy.net/https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/modify.txt)  |
 <details>
 <summary>点击查看上游规则</summary>
 <ul>
@@ -28,6 +27,7 @@
     <li><a href="https://github.com/jdlingyu/ad-wars">ad-wars(大圣净化)</a></li>
     <li><a href="https://github.com/TG-Twilight/AWAvenue-Adblock-Rule">AWAvenue-Adblock-Rule</a></li>
     <li><a href="https://github.com/sbwml/halflife-list">halflife-list</a></li>
+    <li><a href="https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt">xndeye的adblock_list规则</a></li>
     <li><a href="https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts">1024_hosts</a></li>
     <li><a href="https://filters.adavoid.org/ultimate-ad-filter.txt">AdBlocker Ultimate</a></li>
     <li><a href="https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt">damengzhu/banad</a></li>
