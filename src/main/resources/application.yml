@@ -70,6 +70,8 @@ application:
 
       - name: CJX's Annoyance List
         path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt 
+        - name: sccheng460 me
+        path: https://raw.githubusercontent.com/sccheng460/me/master/rules.txt
 
     #本地规则请将文件放置到项目路径rule目录中
     local:
