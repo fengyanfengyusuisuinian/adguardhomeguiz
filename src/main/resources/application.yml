@@ -70,9 +70,16 @@ application:
 
       - name: CJX's Annoyance List
         path: https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt 
+
         - name: sccheng460 me
         path: https://raw.githubusercontent.com/sccheng460/me/master/rules.txt
-
+        
+        - name: YYY Custom Rules
+        path: https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt
+        
+        - name: xndeye的私有规则
+        path: https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt
+        
     #本地规则请将文件放置到项目路径rule目录中
     local:
 #      - name: 'local rule'
