@@ -84,7 +84,7 @@ application:
         path: https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
         
       - name:自用白名单规则
-        path: https://github.guanmengkai.bf/https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/zhiyongguiz.txt
+        path: https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/zhiyongguiz.txt
         
     #本地规则请将文件放置到项目路径rule目录中
     local:
