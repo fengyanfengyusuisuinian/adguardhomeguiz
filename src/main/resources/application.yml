@@ -79,6 +79,12 @@ application:
         
         - name: xndeye的私有规则
         path: https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt
+
+        - name: adblockfilters规则
+        path: https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+        
+        - name:自用白名单规则
+        path: https://ghproxy.net/https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/zhiyongguiz
         
     #本地规则请将文件放置到项目路径rule目录中
     local:
