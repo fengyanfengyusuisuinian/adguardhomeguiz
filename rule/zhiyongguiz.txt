@@ -30,3 +30,14 @@
 @@||example.org^ghproxy.net
 @@||avatars.githubusercontent.com^$important
 @@||xydh.fun
+@@||exp.sug.browser.miui.com^$important
+@@||dj.1688.com^$important
+@@||click.simba.taobao.com^$important
+@@||appsupport.qq.com^$important
+@@||data.bilibili.com^$important
+@@||jumpluna.58.com^$important
+@@||oss-asq-static.11222.cn^$important
+@@||unet.ucweb.com^$important
+@@||example.org^ghproxy.net
+@@||avatars.githubusercontent.com^$important
+@@||raw.githubusercontent.com^$important
