@@ -9,8 +9,7 @@
 |---------------|:-------------------------------------|:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
 | `all.txt`     | 完整规则，适用于 `AdGuard`、`AdBlock`等        |   [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/all.txt)   |   [Link](https://ghproxy.net/https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/all.txt)   |
 | `dns.txt`     | 适用于 `AdGuard Home` 等基于DNS的过滤工具       |   [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/dns.txt)   |   [Link](https://ghproxy.net/https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/dns.txt)   |
-| `hosts.txt`   | 仅包含 `HOSTS` 规则                       |  [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/hosts.txt)  |  [Link](
-https://ghproxy.net/https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/hosts.txt)  |
+| `hosts.txt`   | 仅包含 `HOSTS` 规则                       |  [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/hosts.txt)  |  [Link](https://ghproxy.net/https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/hosts.txt)  |
 | `modify.txt`  | `modify.txt` + `dns.txt` = `all.txt` | [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/modify.txt)  | [Link](https://ghproxy.net/https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/modify.txt)  |
 <details>
 <summary>点击查看上游规则</summary>
