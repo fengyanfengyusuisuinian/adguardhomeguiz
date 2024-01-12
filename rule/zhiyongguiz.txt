@@ -41,3 +41,4 @@
 @@||example.org^ghproxy.net
 @@||avatars.githubusercontent.com^$important
 @@||raw.githubusercontent.com^$important
+@@||camo.githubusercontent.com^$important
