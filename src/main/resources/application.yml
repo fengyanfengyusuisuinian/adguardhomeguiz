@@ -95,7 +95,8 @@ application:
       [ADFS Adblock List]
       ! Title: ${name}
       ! Last Modified: ${date}
-      ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+      ! Rule Homepage: https://github.com/superbigsteam/adguardhomeguiz
+      !Repository template Homepage: https://github.com/fordes123/ad-filters-subscriber
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
       all.txt: #输出文件名
