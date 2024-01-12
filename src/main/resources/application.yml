@@ -86,6 +86,9 @@ application:
       - name: 自用白名单规则
         path: https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/zhiyongguiz.txt
         
+      - name: anti-AD的DNS过滤版
+        path: https://anti-ad.net/easylist.txt
+        
     #本地规则请将文件放置到项目路径rule目录中
     local:
 #      - name: 'local rule'
