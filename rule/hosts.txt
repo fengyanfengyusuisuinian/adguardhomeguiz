@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-01-12 11:48:51
+! Last Modified: 2024-01-12 16:14:07
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
 0.0.0.0 bn4sch101120911.wns.windows.com
@@ -670,6 +670,7 @@
 127.0.0.1 yaolan.adsame.com
 127.0.0.1 stat.funshion.net
 127.0.0.1 ads.ign.com
+127.0.0.1 irs01.com
 127.0.0.1 i.w.inmobi.cn
 127.0.0.1 lb.usemaxserver.de
 127.0.0.1 alogus.umeng.com
@@ -783,7 +784,6 @@
 127.0.0.1 sm.domob.cn
 127.0.0.1 asp.adsame.com
 127.0.0.1 cbjs.baidu.com
-127.0.0.1 ads2.msn.com
 127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 omgmta.play.ott.video.qq.com
@@ -846,6 +846,7 @@
 127.0.0.1 c2.l.qq.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 vt.ipinyou.com
 127.0.0.1 stnetsdk.appstore.vivo.com.cn
 127.0.0.1 p3.adkwai.com
 127.0.0.1 emoticon.sns.iqiyi.com
@@ -962,7 +963,6 @@
 127.0.0.1 a.vserv.mobi
 127.0.0.1 cdn-haokanapk.baidu.com
 127.0.0.1 aiseet.aa.atianqi.com
-127.0.0.1 m.data.mob.com
 127.0.0.1 ad.thsi.cn
 127.0.0.1 p1.adkwai.com
 127.0.0.1 cdn.aiclk.com
@@ -1024,7 +1024,6 @@
 127.0.0.1 api.adxpand.com
 127.0.0.1 me.cpatrk.net
 127.0.0.1 v2.da.mgtv.com
-127.0.0.1 show-3.mediav.com
 127.0.0.1 game.pps.tv
 127.0.0.1 mws.adsage.com
 127.0.0.1 ykad-data.youku.com
@@ -1131,7 +1130,6 @@
 127.0.0.1 bj.imp.voiceads.cn
 127.0.0.1 service.jiagu.360.cn
 127.0.0.1 ef-dongfeng.tanx.com
-127.0.0.1 ssxd.mediav.com
 127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 androidads4-6.adcolony.com
 127.0.0.1 hw.zuimeitianqi.com
@@ -1242,7 +1240,6 @@
 127.0.0.1 ott.v1.data.mgtv.com
 127.0.0.1 pm.aty.sohu.com
 127.0.0.1 ssp.pro.cn
-127.0.0.1 show-g.mediav.com
 127.0.0.1 s23.cnzz.com
 127.0.0.1 et.tanx.com
 127.0.0.1 ads.gmodules.com
@@ -1307,7 +1304,6 @@
 127.0.0.1 andrqd.play.aiseet.atianqi.com
 127.0.0.1 a1.img.static.youmi.net
 127.0.0.1 ipv4.gdt.qq.com
-127.0.0.1 api.exc.mob.com
 127.0.0.1 inline.admedia.com
 127.0.0.1 adshare.toutiao.com
 127.0.0.1 tunion-api.m.taobao.com
@@ -1334,7 +1330,6 @@
 127.0.0.1 pole.6rooms.com
 127.0.0.1 dolphin-center.adsame.com
 127.0.0.1 kepler.jd.com
-127.0.0.1 devs.data.mob.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 adashx.ut.amap.com
 127.0.0.1 ilce.alicdn.com
@@ -1349,7 +1344,6 @@
 127.0.0.1 ebp.renren.com
 127.0.0.1 stat2.corp.56.com
 127.0.0.1 mydisplay.ctfile.com
-127.0.0.1 ads.msn.com
 127.0.0.1 x.adpro.cn
 127.0.0.1 mcgi.v.qq.com
 127.0.0.1 mobwsa.ximalaya.com
@@ -1420,7 +1414,6 @@
 127.0.0.1 optimus-ads.amap.com
 127.0.0.1 zs14.cnzz.com
 127.0.0.1 d.qchannel03.cn
-127.0.0.1 api.share.mob.com
 127.0.0.1 bu1.duba.com
 127.0.0.1 adserver.yahoo.com
 127.0.0.1 mon.ad.xelements.cn
@@ -1552,7 +1545,6 @@
 127.0.0.1 zvs1.cnzz.com
 127.0.0.1 bksoup.v.qq.com
 127.0.0.1 l2.l.qq.com
-127.0.0.1 show-m.mediav.com
 127.0.0.1 show.m.mediav.com
 127.0.0.1 static.bshare.cn
 127.0.0.1 dev.iyuba.cn
@@ -1649,7 +1641,6 @@
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 miniapp.qiluyidian.mobi
 127.0.0.1 cm.baidu.com
-127.0.0.1 static-ssl.mediav.com
 127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 adui.tg.meitu.com
@@ -1816,7 +1807,6 @@
 127.0.0.1 zs2.cnzz.com
 127.0.0.1 stat.v.baidu.com
 127.0.0.1 iacpromotion.s3.amazonaws.com
-127.0.0.1 c.data.mob.com
 127.0.0.1 b-gi.gepush.com
 127.0.0.1 click1forhz.adsmogo.com
 127.0.0.1 i.gdt.qq.com
@@ -2090,6 +2080,7 @@
 127.0.0.1 g.doubleclick.net
 127.0.0.1 cdn.bluebillywig.com
 127.0.0.1 cdn-magiclinks.trackonomics.net
+127.0.0.1 ads2.msn.com
 127.0.0.1 x.dlx.addthis.com
 127.0.0.1 extend.tv
 127.0.0.1 px.britepool.com
@@ -2589,7 +2580,6 @@
 127.0.0.1 vap3ams1.lijit.com
 127.0.0.1 dz.mmstat.com
 127.0.0.1 tg1.aniview.com
-127.0.0.1 cookie.vrtzads.com
 127.0.0.1 sax.sina.cn
 127.0.0.1 a.vertamedia.com
 127.0.0.1 link.krxd.net
@@ -2790,7 +2780,6 @@
 127.0.0.1 usc.adserver.snapads.com
 127.0.0.1 es-gmtdmp.mookie1.com
 127.0.0.1 srv.buysellads.com
-127.0.0.1 cdn.viglink.com
 127.0.0.1 c.ad-srv.co
 127.0.0.1 global.appnext.com
 127.0.0.1 sync.sharethis.com
@@ -3110,7 +3099,6 @@
 127.0.0.1 dsp-d.ants.vn
 127.0.0.1 moatads.com
 127.0.0.1 soma-assets.smaato.net
-127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 common.duapps.com
 127.0.0.1 samyonews-d.openx.net
 127.0.0.1 bs-geo.dvgtm.akadns.net
@@ -3140,6 +3128,7 @@
 127.0.0.1 itim.vn
 127.0.0.1 cm.cn.miaozhen.com
 127.0.0.1 sspi.adpopcorn.com
+127.0.0.1 api.exc.mob.com
 127.0.0.1 hosting-source.bm23.com
 127.0.0.1 trk.klclick1.com
 127.0.0.1 3606.api.swrve.com
@@ -3402,6 +3391,7 @@
 127.0.0.1 rt.adtiming.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 hw-cdn.contentabc.com
+127.0.0.1 c.data.mob.com
 127.0.0.1 a1279.casalemedia.com
 127.0.0.1 aamt.nbcnews.com
 127.0.0.1 static.affluent.io
@@ -3615,7 +3605,6 @@
 127.0.0.1 app-sj14.marketo.com
 127.0.0.1 tags.srv.stackadapt.com
 127.0.0.1 celltick.com
-127.0.0.1 irs01.com
 127.0.0.1 cdn.rlcdn.com
 127.0.0.1 sjrtp2-cdn.marketo.com
 127.0.0.1 pangolin16.isnssdk.com
@@ -3720,7 +3709,6 @@
 127.0.0.1 kake.images.worldnow.com
 127.0.0.1 content-prod3.glance-internal.inmobi.com
 127.0.0.1 sync.aniview.com
-127.0.0.1 vt.ipinyou.com
 127.0.0.1 sync.jivox.com
 127.0.0.1 d.adx.io
 127.0.0.1 pgthetradedeskvideo910663478306.s.moatpixel.com
@@ -3907,6 +3895,7 @@
 127.0.0.1 sdk-events.inner-active.mobi
 127.0.0.1 pbs.publishers.tremorhub.com
 127.0.0.1 config.eastus-ssp.appgwv2.inmobi.com
+127.0.0.1 show-g.mediav.com
 127.0.0.1 idsync.reson8.com
 127.0.0.1 secure-adnxs.edgekey.net
 127.0.0.1 sdk.fiksu.com
@@ -4549,6 +4538,7 @@
 127.0.0.1 sdk.sharethrough.com
 127.0.0.1 tracking.retargeting.biz
 127.0.0.1 vz-cdn.trafficjunky.net
+127.0.0.1 m.data.mob.com
 127.0.0.1 engage8829thscr.deltadna.net
 127.0.0.1 o861134.ingest.sentry.io
 127.0.0.1 wo.gumgum.com
@@ -5705,6 +5695,7 @@
 127.0.0.1 track.pricespider.com
 127.0.0.1 a1420.casalemedia.com
 127.0.0.1 sjrtp6-cdn.marketo.com
+127.0.0.1 show-m.mediav.com
 127.0.0.1 stats.smartclip.net
 127.0.0.1 as.chango.com
 127.0.0.1 us-west-notify-rtb.quantserve.com
@@ -5769,7 +5760,6 @@
 127.0.0.1 tnc16-useast1a.isnssdk.com
 127.0.0.1 owb101.goo.ne.jp
 127.0.0.1 config.sdk.scopely.io
-127.0.0.1 ads.yieldmo.com
 127.0.0.1 sync.adap.tv
 127.0.0.1 adserver.iprom.net
 127.0.0.1 ext-inv-cdn.prod.cloud.ogury.io
@@ -6488,7 +6478,6 @@
 127.0.0.1 jscdn.appier.net
 127.0.0.1 tr-romsp-unifyconfig.vivoglobal.com
 127.0.0.1 sfo3.ipromote.com
-127.0.0.1 cms.analytics.yahoo.com
 127.0.0.1 tb.de17a.com
 127.0.0.1 trans.hiido.com
 127.0.0.1 api.hdtv.letv.com
@@ -6599,6 +6588,7 @@
 127.0.0.1 amp.rd.linksynergy.com
 127.0.0.1 hw-cdn-ap.trafficjunky.net
 127.0.0.1 trk.apperol.com
+127.0.0.1 static-ssl.mediav.com
 127.0.0.1 assets.vidora.com
 127.0.0.1 www.mczbf.com
 127.0.0.1 ads-b-480313385.us-west-1.elb.amazonaws.com
@@ -7057,6 +7047,7 @@
 127.0.0.1 pl-gmtdmp.mookie1.com
 127.0.0.1 a1442.casalemedia.com
 127.0.0.1 iad5.ipromote.com
+127.0.0.1 show-3.mediav.com
 127.0.0.1 static.polarcdn.com
 127.0.0.1 trialpay.com
 127.0.0.1 plus.tapsell.ir
@@ -7208,6 +7199,7 @@
 127.0.0.1 app-6b7903104cffc647.mobileapi.usebutton.com
 127.0.0.1 aan.amazon.com
 127.0.0.1 prga.smartadserver.com
+127.0.0.1 devs.data.mob.com
 127.0.0.1 update.kmpmedia.net
 127.0.0.1 delivery.yomedia.vn
 127.0.0.1 adstory.gotrackier.com
@@ -7233,6 +7225,7 @@
 127.0.0.1 us-events.api.iheart.com
 127.0.0.1 teads245638586802.s.moatpixel.com
 127.0.0.1 va-lb.gumgum.com
+127.0.0.1 api.share.mob.com
 127.0.0.1 tr.snapchat.com
 127.0.0.1 data.coremetrics.com
 127.0.0.1 2712.api.swrve.com
@@ -7903,6 +7896,7 @@
 127.0.0.1 static.dable.io
 127.0.0.1 events.zaloapp.com
 127.0.0.1 beap.gemini.yahoo.com
+127.0.0.1 ssxd.mediav.com
 127.0.0.1 gd1.mookie1.com
 127.0.0.1 analytics.zendesk.com
 127.0.0.1 cz-gmtdmp.mookie1.com
@@ -8026,6 +8020,7 @@
 127.0.0.1 px.tvadsync.com
 127.0.0.1 pssvc.iqzone.com
 127.0.0.1 pushnami.com
+127.0.0.1 ads.msn.com
 127.0.0.1 slckg-nugvu.ads.tremorhub.com
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 trk.atomex.net
@@ -9526,6 +9521,7 @@
 127.0.0.1 rekovers.ru
 127.0.0.1 sha2024.com
 127.0.0.1 trackadsb1.com
+127.0.0.1 ads.yieldmo.com
 127.0.0.1 get-fuck-tonight-us4-foryou.dailynews.ovh
 127.0.0.1 fanqianbb.com
 127.0.0.1 ck.jads.co
@@ -9571,6 +9567,7 @@
 127.0.0.1 s141.cnzz.com
 127.0.0.1 tag.cdnmaster.cn
 127.0.0.1 www.xinhao29.com
+127.0.0.1 cookie.vrtzads.com
 127.0.0.1 sqms.cn
 127.0.0.1 cymzc.com
 127.0.0.1 tg.yxdou.com
@@ -9973,6 +9970,7 @@
 127.0.0.1 www.hldwmly.com
 127.0.0.1 www2a.j8inn1zektoe.com
 127.0.0.1 jiongshiwu.com
+127.0.0.1 cdn.viglink.com
 127.0.0.1 ssl.xn--vqq79r59m.eu.org
 127.0.0.1 www15t.j8inn1zektoe.com
 127.0.0.1 store.atas.io
@@ -10570,6 +10568,7 @@
 127.0.0.1 www.wangketuan.com
 127.0.0.1 www.zzxbn.com
 127.0.0.1 act.commercial.shouji.360.cn
+127.0.0.1 ads.yap.yahoo.com
 127.0.0.1 ad.adultfriendfinder.com
 127.0.0.1 go.padsdel.com
 127.0.0.1 newsupdatedir.info
@@ -10790,6 +10789,7 @@
 127.0.0.1 ministedik.info
 127.0.0.1 po.codejumps.com
 127.0.0.1 cai38c.com
+127.0.0.1 cms.analytics.yahoo.com
 127.0.0.1 abrts.pro
 127.0.0.1 rrcai.com
 127.0.0.1 api.mini.wps.cn
@@ -11180,34 +11180,7 @@
 127.0.0.1 pt.trafficjunky.net
 127.0.0.1 sync.shinobi.jp
 ! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
-140.82.112.25                 alive.github.com
 140.82.114.21                 central.github.com
-140.82.114.21                 collector.github.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               media.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-140.82.114.10                 codeload.github.com
-52.216.37.145                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.196.113                github-production-user-asset-6210df.s3.amazonaws.com
-140.82.112.3                  gist.github.com
-185.199.111.133               avatars.githubusercontent.com
-185.199.111.133               raw.githubusercontent.com
-52.216.204.155                github-cloud.s3.amazonaws.com
-140.82.112.5                  api.github.com
-185.199.111.133               camo.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-52.216.61.193                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.111.133               avatars4.githubusercontent.com
-151.101.193.194               github.global.ssl.fastly.net
-140.82.113.4                  github.com
-140.82.114.25                 live.github.com
-185.199.111.133               avatars1.githubusercontent.com
-16.182.33.137                 github-com.s3.amazonaws.com
-140.82.113.22                 education.github.com
-! 👇This Part Merge from: xndeye的私有规则 (https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt)
-110.43.121.249  	bigota.d.miui.com
-110.43.121.249   	hugeota.d.miui.com
-! 👇This Part Merge from: YYY Custom Rules (https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt)
 222.211.77.45 bigota.d.miui.com
 127.0.0.1 rr1---sn-ni5eln7z.gvt1.com
 127.0.0.1 mi-de-ner-nis3.info
@@ -11232,28 +11205,35 @@
 127.0.0.1 p2-lm.adukwai.com
 127.0.0.1 ad.xiaomi.com
 127.0.0.1 etl.xlmc.sec.miui.com
-140.82.112.22                 education.github.com
+54.231.132.153                github-production-release-asset-2e65be.s3.amazonaws.com
+185.199.108.153               assets-cdn.github.com
 185.199.111.133               user-images.githubusercontent.com
 127.0.0.1 mi.miliboo.de
 127.0.0.1 mi.btmods.net
 127.0.0.1 safebrowsing.googleapis.com
 127.0.0.1 olx-mi.pl
-140.82.112.3                  github.com
-185.199.110.133               avatars4.githubusercontent.com
 127.0.0.1 www.mi-manga-hentai.blogspot.com
 23.74.15.48 bigota.d.miui.com
+52.216.61.193                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.113.4                  github.com
+140.82.114.25                 live.github.com
 127.0.0.1 p1-lm.adukwai.com
 127.0.0.1 staging.sdkconfig.ad.xiaomi.srv
 127.0.0.1 adv.sec.intl.miui.com
-140.82.112.22                 central.github.com
+140.82.114.21                 collector.github.com
 111.42.190.27 hugeota.d.miui.com
 127.0.0.1 metok.sys.miui.com
 127.0.0.1 ad1.xiaomi.com
 127.0.0.1 ner-de-mi-nis-6.info
 127.0.0.1 flowplus.meituan.net
 127.0.0.1 mi.miliboo.es
+185.199.109.133               avatars4.githubusercontent.com
+185.199.111.133               avatars.githubusercontent.com
 127.0.0.1 jupiter.sys.miui.com
+140.82.112.5                  api.github.com
+185.199.111.133               avatars2.githubusercontent.com
 185.199.108.154               github.githubassets.com
+185.199.111.133               avatars4.githubusercontent.com
 127.0.0.1 r.browser.miui.com
 218.12.77.221 hugeota.d.miui.com
 185.199.110.153               githubstatus.com
@@ -11262,31 +11242,32 @@
 127.0.0.1 api.collect.data.intl.miui.com
 1.194.252.150 bigota.d.miui.com
 127.0.0.1 www.olx-mi.pl
-151.101.1.194                 github.global.ssl.fastly.net
-140.82.114.26                 alive.github.com
 127.0.0.1 ixav-cse.avlyun.com
 127.0.0.1 mi-manga-hentai.blogspot.com
 123.6.13.6 bigota.d.miui.com
 127.0.0.1 ccc.sys.miui.com
 1.180.18.26 hugeota.d.miui.com
 114.80.149.74 hugeota.d.miui.com
-52.217.202.65                 github-production-release-asset-2e65be.s3.amazonaws.com
+140.82.113.22                 education.github.com
 127.0.0.1 tower.douyucdn.cn
 127.0.0.1 mi.tvzhe.com
+185.199.111.133               media.githubusercontent.com
+185.199.108.153               githubstatus.com
 127.0.0.1 api.brs.intl.miui.com
 127.0.0.1 hd.browser.miui.com
 127.0.0.1 de-mi-nis-ner.info
 127.0.0.1 gallery.pandora.xiaomi.com
 127.0.0.1 mazu.sec.miui.com
+151.101.193.194               github.global.ssl.fastly.net
 185.199.111.133               cloud.githubusercontent.com
 127.0.0.1 rtmretry.kugou.com
-185.199.110.133               avatars3.githubusercontent.com
 127.0.0.1 www.inpost-polska-mi.order6457.me
 127.0.0.1 afdconf.baidu.com
 127.0.0.1 miav-cse.avlyun.com
 127.0.0.1 access1.tpns.tencent.com
 127.0.0.1 reader.browser.miui.com
 218.12.77.222 hugeota.d.miui.com
+52.217.168.113                github-cloud.s3.amazonaws.com
 127.0.0.1 geofence.sys.miui.com
 127.0.0.1 upos-sz-mirrorcos.bilivideo.com
 127.0.0.1 rt-m.kugou.com
@@ -11294,17 +11275,16 @@
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 vweixinthumb.tc.qq.com
 127.0.0.1 preview-api.installer.xiaomi.com
+140.82.112.3                  gist.github.com
 185.199.111.133               github.map.fastly.net
 192.0.66.2                    github.blog
-52.216.250.220                github-cloud.s3.amazonaws.com
 127.0.0.1 log.avlyun.sec.intl.miui.com
-52.217.10.60                  github-production-user-asset-6210df.s3.amazonaws.com
 218.12.77.221 bigota.d.miui.com
 127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 api.e.mi.com
 112.25.25.153 hugeota.d.miui.com
-185.199.110.133               avatars.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
 119.96.78.12 bigota.d.miui.com
 122.225.83.99 hugeota.d.miui.com
 185.199.111.133               desktop.githubusercontent.com
@@ -11318,22 +11298,18 @@
 127.0.0.1 activity.browser.intl.miui.com
 1.180.18.27 bigota.d.miui.com
 127.0.0.1 ad.intl.xiaomi.com
-140.82.113.25                 live.github.com
 127.0.0.1 mi.miliboo.be
 127.0.0.1 p2.a.yximgs.com
 127.0.0.1 mi.atm.youku.com
 111.42.190.28 bigota.d.miui.com
 127.0.0.1 tmfsdk.m.qq.com
-140.82.114.22                 collector.github.com
 127.0.0.1 mgvrst.mi-shop.com
 127.0.0.1 www.find.my-xiaomi.live
-185.199.110.133               camo.githubusercontent.com
 108.177.97.100 translate.googleapis.com
-52.217.115.97                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.111.133               avatars1.githubusercontent.com
 127.0.0.1 ad.mi.com
 127.0.0.1 de-ner-mi-nis4.info
 127.0.0.1 de.pandora.xiaomi.com
-185.199.110.133               raw.githubusercontent.com
 223.247.108.238 hugeota.d.miui.com
 127.0.0.1 inpost-polska-mi.order6457.me
 185.199.111.133               objects.githubusercontent.com
@@ -11352,7 +11328,6 @@
 42.185.159.90 hugeota.d.miui.com
 127.0.0.1 hysdkservice.g.mi.com
 127.0.0.1 resolver.gslb.mi-idc.com
-140.82.112.4                  gist.github.com
 1.180.18.26 bigota.d.miui.com
 127.0.0.1 cc.sys.intl.xiaomi.com
 127.0.0.1 mp.huangye.miui.com
@@ -11361,9 +11336,10 @@
 127.0.0.1 mi.miliboo.co.uk
 127.0.0.1 mi.speee.jp
 127.0.0.1 lite.a.market.xiaomi.com
-54.231.193.1                  github-com.s3.amazonaws.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
+54.231.200.105                github-production-user-asset-6210df.s3.amazonaws.com
 127.0.0.1 ssp.xiaomi.com
+52.216.8.163                  github-cloud.s3.amazonaws.com
 127.0.0.1 miui.hftaili.com
 183.136.140.24 bigota.d.miui.com
 127.0.0.1 config.kuyun.com
@@ -11378,7 +11354,6 @@
 127.0.0.1 misc.pandora.xiaomi.com
 122.225.83.100 bigota.d.miui.com
 223.247.108.236 bigota.d.miui.com
-185.199.110.133               media.githubusercontent.com
 127.0.0.1 dvb.pandora.xiaomi.com
 127.0.0.1 api.installer.xiaomi.com
 127.0.0.1 upgrade.mishop.pandora.xiaomi.com
@@ -11389,37 +11364,40 @@
 127.0.0.1 mi-mercadito.mx
 127.0.0.1 url8807.global.passport.xiaomi.com
 127.0.0.1 miui-fxcse.avlyun.com
-185.199.110.133               avatars1.githubusercontent.com
 127.0.0.1 upos-sz-mirror08h.bilivideo.com
 127.0.0.1 api.d.xiaomi.com
 23.74.15.48 hugeota.d.miui.com
 180.163.200.97 bigota.d.miui.com
 127.0.0.1 ossgw.alicdn.com
 127.0.0.1 auth.be.sec.miui.com
-140.82.114.5                  api.github.com
 127.0.0.1 httpdns.browser.miui.com
-185.199.110.133               avatars2.githubusercontent.com
+185.199.109.133               raw.githubusercontent.com
 127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 stat.xiaomi.com
 223.247.108.236 hugeota.d.miui.com
 183.136.207.132 hugeota.d.miui.com
 127.0.0.1 upos-sz-mirror08c.bilivideo.com
 127.0.0.1 api.newsfeed.intl.miui.com
+140.82.112.25                 alive.github.com
 127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 mi.5.p2l.info
+185.199.111.133               avatars5.githubusercontent.com
 127.0.0.1 p3-be-pack-sign.pglstatp-toutiao.com
+185.199.111.133               raw.githubusercontent.com
+185.199.111.133               camo.githubusercontent.com
 223.108.61.123 bigota.d.miui.com
+185.199.108.153               github.io
 185.199.111.133               favicons.githubusercontent.com
+54.231.198.57                 github-production-release-asset-2e65be.s3.amazonaws.com
 127.0.0.1 mi.miliboo.it
 127.0.0.1 mishop.pandora.xiaomi.com
 127.0.0.1 de-nis-ner-mi-5.info
 203.195.76.34 hugeota.d.miui.com
-185.199.110.133               avatars5.githubusercontent.com
 127.0.0.1 www.mi-olx.pl
 127.0.0.1 go.mi.edu
 127.0.0.1 wup.imtt.qq.com
 127.0.0.1 shenghuo.xiaomi.com
-140.82.113.10                 codeload.github.com
+140.82.114.10                 codeload.github.com
 122.225.83.99 bigota.d.miui.com
 127.0.0.1 api.g.micloud.xiaomi.net
 185.199.110.153               github.io
@@ -11429,3 +11407,32 @@
 127.0.0.1 tat.pandora.xiaomi.com
 1.194.252.150 hugeota.d.miui.com
 127.0.0.1 cc.sys.miui.com
+16.182.33.137                 github-com.s3.amazonaws.com
+! 👇This Part Merge from: xndeye的私有规则 (https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt)
+110.43.121.249  	bigota.d.miui.com
+110.43.121.249   	hugeota.d.miui.com
+! 👇This Part Merge from: YYY Custom Rules (https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt)
+140.82.112.22                 central.github.com
+185.199.110.133               avatars.githubusercontent.com
+140.82.114.5                  api.github.com
+185.199.110.133               avatars2.githubusercontent.com
+52.217.115.97                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.113.10                 codeload.github.com
+140.82.112.3                  github.com
+140.82.112.4                  gist.github.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.110.133               raw.githubusercontent.com
+52.216.250.220                github-cloud.s3.amazonaws.com
+140.82.114.22                 collector.github.com
+151.101.1.194                 github.global.ssl.fastly.net
+52.217.10.60                  github-production-user-asset-6210df.s3.amazonaws.com
+185.199.110.133               avatars1.githubusercontent.com
+140.82.114.26                 alive.github.com
+185.199.110.133               avatars3.githubusercontent.com
+54.231.193.1                  github-com.s3.amazonaws.com
+185.199.110.133               camo.githubusercontent.com
+140.82.113.25                 live.github.com
+140.82.112.22                 education.github.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.110.133               media.githubusercontent.com
+52.217.202.65                 github-production-release-asset-2e65be.s3.amazonaws.com
