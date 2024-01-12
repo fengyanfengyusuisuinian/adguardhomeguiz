@@ -41,7 +41,8 @@
     <li><a href="https://ghps.cc/https://raw.githubusercontent.com/sccheng460/me/master/rules.txt">sccheng460的自用名单</a></li>
     <li><a href="https://raw.gitmirror.com/wycxqsf/AD--/main/%E8%87%AA%E7%94%A8%E8%A7%84%E5%88%993.0.txt">wycxqsf的拦截小说广告</a></li>
     <li><a href="https://share.yyycontrol.top/d/Rules/YYYCustomRules/YYYCustomRules.txt">MoonWWY的YYYCustomRules</a></li>
-     <li><a href="https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt">adblockfilters规则</a></li>
+    <li><a href="https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt">adblockfilters规则</a></li>
+    <li><a href="https://anti-ad.net/easylist.txt">anti-AD DNS过滤版</a></li>
 
 
 
