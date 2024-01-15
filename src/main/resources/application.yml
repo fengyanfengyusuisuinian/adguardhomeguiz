@@ -89,14 +89,14 @@ application:
       - name: anti-AD的DNS过滤版
         path: https://anti-ad.net/easylist.txt
         
-        - name: T晨规则1
-          path: https://gitee.com/xiac520/Advertisement/raw/master/%E8%87%AA%E8%A1%8C%E8%A1%A5%E5%85%85%E8%A7%84%E5%88%99
+      - name: T晨规则1
+        path: https://gitee.com/xiac520/Advertisement/raw/master/%E8%87%AA%E8%A1%8C%E8%A1%A5%E5%85%85%E8%A7%84%E5%88%99
 
-         - name: T晨规则2
-           path: https://gitee.com/xiac520/AdGuardHome/raw/main/TheBestAdrules.txt
+      - name: T晨规则2
+        path: https://gitee.com/xiac520/AdGuardHome/raw/main/TheBestAdrules.txt
 
-         - name: T晨规则3
-           path: https://gitee.com/xiac520/AdGuardHome/raw/main/WindowsSpyBlocker.txt
+      - name: T晨规则3
+        path: https://gitee.com/xiac520/AdGuardHome/raw/main/WindowsSpyBlocker.txt
 
 
     #本地规则请将文件放置到项目路径rule目录中
