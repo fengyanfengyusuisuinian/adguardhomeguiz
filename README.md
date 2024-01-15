@@ -43,6 +43,7 @@
     <li><a href="https://share.yyycontrol.top/d/Rules/YYYCustomRules/YYYCustomRules.txt">MoonWWY的YYYCustomRules</a></li>
     <li><a href="https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt">adblockfilters规则</a></li>
     <li><a href="https://anti-ad.net/easylist.txt">anti-AD DNS过滤版</a></li>
+    <li><a href="https://gitee.com/xiac520/Advertisement">gitee xiac520的部分规则</a></li>
 
 
 
