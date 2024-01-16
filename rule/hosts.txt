@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-01-16 08:50:45
+! Last Modified: 2024-01-16 16:14:12
 ! Rule Homepage: https://github.com/superbigsteam/adguardhomeguiz
 ! Repository template Homepage: https://github.com/fordes123/ad-filters-subscriber
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
@@ -1049,6 +1049,7 @@
 127.0.0.1 acs.56.com
 127.0.0.1 engine.liandaomobi.com
 127.0.0.1 adash.man.aliyuncs.com
+127.0.0.1 wd.adcolony.com
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 ad.gtbrowser.com
 127.0.0.1 adx.rrt365.com
@@ -1483,6 +1484,7 @@
 127.0.0.1 79t2.admaster.com.cn
 127.0.0.1 test2014.adview.cn
 127.0.0.1 ad3.udn.com
+127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 stat.mobgi.com
 127.0.0.1 log.ad.xiaomi.com
 127.0.0.1 securepubads.g.doubleclick.net
@@ -2521,6 +2523,7 @@
 127.0.0.1 api.juicyads.com
 127.0.0.1 h99998888.com
 127.0.0.1 www.mycleanmymac.com
+127.0.0.1 cdn.flurry.com
 127.0.0.1 www.4242lll.com
 127.0.0.1 gm.mmstat.com
 127.0.0.1 hjc1990.com
@@ -3186,7 +3189,6 @@
 127.0.0.1 dsj66.cn
 127.0.0.1 s101.cnzz.com
 127.0.0.1 mobbahjug.com
-127.0.0.1 servicer.mgid.com
 127.0.0.1 hh55268.com
 127.0.0.1 join.javhd.com
 127.0.0.1 dl-vip.bav.baidu.com
@@ -3765,6 +3767,7 @@
 127.0.0.1 api.popin.cc
 127.0.0.1 karonty.com
 127.0.0.1 speednetwork14.adk2x.com
+127.0.0.1 tw-gmtdmp.mookie1.com
 127.0.0.1 galaxy.sogoucdn.com
 127.0.0.1 yyy.pp1500.com
 127.0.0.1 www.fastclick.com
@@ -4030,6 +4033,7 @@
 127.0.0.1 www.keyshot.cc
 127.0.0.1 tx2play1.douyucdn.cn
 127.0.0.1 hm3.cnzz.com
+127.0.0.1 media.innity.net
 127.0.0.1 vz-cdn.trafficjunky.net
 127.0.0.1 cootek-file.cdn.cootekservice.com
 127.0.0.1 www.50508894.com
@@ -5593,6 +5597,7 @@
 127.0.0.1 clientsdk.luminati.io
 127.0.0.1 cdn-a.amazon-adsystem.com
 127.0.0.1 iad-03.appboy.com
+127.0.0.1 servicer.mgid.com
 127.0.0.1 adexp.liftoff.io
 127.0.0.1 dc.webtrends.com
 127.0.0.1 2405.api.swrve.com
@@ -6011,7 +6016,6 @@
 127.0.0.1 r1.visualwebsiteoptimizer.com
 127.0.0.1 serving.ad.org.vn
 127.0.0.1 pixel-apac.rubiconproject.net.akadns.net
-127.0.0.1 media.innity.net
 127.0.0.1 adsbynimbus.com
 127.0.0.1 td.yieldify.com
 127.0.0.1 us1.wzrkt.com
@@ -6779,7 +6783,6 @@
 127.0.0.1 sms.mob.com
 127.0.0.1 adx-asia.aarki.net
 127.0.0.1 tutoads.tv
-127.0.0.1 cdn.flurry.com
 127.0.0.1 challenge.360in.com
 127.0.0.1 opx-winners-us-east-1-rtb.adroll.com
 127.0.0.1 sync.ads.yieldmo.com
@@ -7409,7 +7412,6 @@
 127.0.0.1 so.rlcdn.com
 127.0.0.1 e-10220.adzerk.net
 127.0.0.1 c.hrzn-nxt.com
-127.0.0.1 tw-gmtdmp.mookie1.com
 127.0.0.1 tacoda.net
 127.0.0.1 local.ownlocal.com
 127.0.0.1 async-px.dynamicyield.com
@@ -8724,7 +8726,6 @@
 127.0.0.1 cooladata.kampyle.com
 127.0.0.1 ums.adtech.com
 127.0.0.1 us-1.gladly.com
-127.0.0.1 wd.adcolony.com
 127.0.0.1 mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com
 127.0.0.1 track.recreativ.ru
 127.0.0.1 api-n.outgrow.co
@@ -10716,7 +10717,6 @@
 127.0.0.1 loopme.me
 127.0.0.1 api.umbel.com
 127.0.0.1 track.appsflyer.com
-127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 de01.rayjump.com
 127.0.0.1 static-rtb.adkernel.com
 127.0.0.1 p.teads.tv
@@ -11182,48 +11182,48 @@
 127.0.0.1 secure-sdk.imrworldwide.com
 ! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
 140.82.112.25                 alive.github.com
-140.82.114.22                 central.github.com
-140.82.114.21                 collector.github.com
-185.199.111.133               avatars3.githubusercontent.com
 185.199.110.153               githubstatus.com
 13.107.213.40                 vscode.dev
-140.82.114.10                 codeload.github.com
-185.199.111.133               avatars.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.111.133               github.map.fastly.net
 140.82.112.3                  github.com
 140.82.112.4                  gist.github.com
 185.199.110.154               github.githubassets.com
+185.199.111.133               camo.githubusercontent.com
+185.199.111.133               favicons.githubusercontent.com
+185.199.111.133               avatars0.githubusercontent.com
+13.107.42.16                  pipelines.actions.githubusercontent.com
+140.82.114.25                 live.github.com
+185.199.111.133               avatars1.githubusercontent.com
+140.82.113.22                 education.github.com
+140.82.114.22                 central.github.com
+140.82.114.21                 collector.github.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.111.133               media.githubusercontent.com
+185.199.111.133               desktop.githubusercontent.com
+140.82.114.10                 codeload.github.com
+185.199.111.133               avatars.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
 140.82.112.5                  api.github.com
 185.199.110.153               github.io
 185.199.111.133               avatars2.githubusercontent.com
 140.82.112.17                 github.community
 185.199.111.133               avatars4.githubusercontent.com
 151.101.193.194               github.global.ssl.fastly.net
-185.199.111.133               avatars0.githubusercontent.com
-13.107.42.16                  pipelines.actions.githubusercontent.com
-16.182.97.81                  github-production-user-asset-6210df.s3.amazonaws.com
-140.82.114.25                 live.github.com
+185.199.111.133               cloud.githubusercontent.com
 185.199.110.153               assets-cdn.github.com
-185.199.111.133               avatars1.githubusercontent.com
-140.82.113.22                 education.github.com
 ! 👇This Part Merge from: xndeye的私有规则 (https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt)
 110.43.121.249  	bigota.d.miui.com
 110.43.121.249   	hugeota.d.miui.com
 ! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
-185.199.111.133               media.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               github.map.fastly.net
-185.199.111.133               raw.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
-52.216.204.155                github-cloud.s3.amazonaws.com
-185.199.111.133               camo.githubusercontent.com
-192.0.66.2                    github.blog
 52.217.46.60                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.111.133               cloud.githubusercontent.com
-185.199.111.133               favicons.githubusercontent.com
+52.216.132.195                github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.168.73                 github-com.s3.amazonaws.com
-54.231.232.41                 github-production-release-asset-2e65be.s3.amazonaws.com
+185.199.111.133               raw.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
+52.216.204.155                github-cloud.s3.amazonaws.com
+52.217.202.169                github-production-user-asset-6210df.s3.amazonaws.com
+192.0.66.2                    github.blog
 ! 👇This Part Merge from: YYY Custom Rules (https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt)
 222.211.77.45 bigota.d.miui.com
 127.0.0.1 rr1---sn-ni5eln7z.gvt1.com
