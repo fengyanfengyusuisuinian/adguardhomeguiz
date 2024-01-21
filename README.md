@@ -45,6 +45,10 @@
     <li><a href="https://anti-ad.net/easylist.txt">anti-AD DNS过滤版</a></li>
     <li><a href="https://gitee.com/xiac520/Advertisement">gitee xiac520的部分规则</a></li>
 
+    <li><a href="https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt">Perflyst and Dandelion Sprout's Smart-TV Blocklist</a></li>
+    <li><a href="https://www.i-dont-care-about-cookies.eu/abp/">I don’t care about cookies</a></li>
+    <li><a href="https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt">Fanboy’s Annoyances List</a></li>
+
 
 
   
