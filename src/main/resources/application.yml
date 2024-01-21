@@ -97,6 +97,15 @@ application:
 
       - name: T晨规则3
         path: https://gitee.com/xiac520/AdGuardHome/raw/main/WindowsSpyBlocker.txt
+        
+      - name: Perflyst and Dandelion Sprout's Smart-TV Blocklist
+        path: https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
+
+       - name: I don’t care about cookies
+        path: https://www.i-dont-care-about-cookies.eu/abp/
+
+      - name: Fanboy's Annoyance List
+        path: https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
 
 
     #本地规则请将文件放置到项目路径rule目录中
