@@ -101,7 +101,7 @@ application:
       - name: Perflyst and Dandelion Sprout's Smart-TV Blocklist
         path: https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
 
-       - name: I don’t care about cookies
+      - name: I don’t care about cookies
         path: https://www.i-dont-care-about-cookies.eu/abp/
 
       - name: Fanboy's Annoyance List
