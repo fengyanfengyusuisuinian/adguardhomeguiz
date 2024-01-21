@@ -42,3 +42,19 @@
 @@||avatars.githubusercontent.com^$important
 @@||raw.githubusercontent.com^$important
 @@||camo.githubusercontent.com^$important
+|| f.gm.mob.com^$important
+||qwhdcdn.cmcc-cs.cn^$important
+||polaris*-normal-hl.zijieapi.com^$important
+||lite.a.market.xiaomi.com^$important
+||lite.a.market.xiaomi.com^$app=com.android.thememanager,important
+#小米升级
+||update.miui.com^$important
+||passportws.ximalaya.com^$important
+||gslbtx.ximalaya.com^$important
+||xuid-server.ximalaya.com^$important
+||mobile.tx.ximalaya.com^$important
+||xuid-tracking.ximalaya.com^$important
+||mres.ximalaya.com^$important
+||livewsa.ximalaya.com^$important
+||*.gdtimg.com^$important
+||wap.cmpassport.com^$important
