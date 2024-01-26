@@ -11,7 +11,7 @@
 | `dns.txt`     | 适用于 `AdGuard Home` 等基于DNS的过滤工具       |   [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/dns.txt)   |   [Link](https://ghproxy.net/https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/dns.txt)   |
 | `hosts.txt`   | 仅包含 `HOSTS` 规则                       |  [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/hosts.txt)  |  [Link](https://ghproxy.net/https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/hosts.txt)  |
 | `modify.txt`  | `modify.txt` + `dns.txt` = `all.txt` | [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/modify.txt)  | [Link](https://ghproxy.net/https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/modify.txt)  |
-| `zhiyongguiz.txt` | 由本仓库维护的私有白名单规则，目前很少| [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/zhiyongguiz.txt) | [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/zhiyongguiz.txt) |
+| `zhiyongguiz.txt` | 由本仓库维护的自用规则，目前很少，更新随缘| [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/zhiyongguiz.txt) | [Link](https://github.com/superbigsteam/adguardhomeguiz/blob/main/rule/zhiyongguiz.txt) |
 
 
 
@@ -43,7 +43,6 @@
     <li><a href="https://share.yyycontrol.top/d/Rules/YYYCustomRules/YYYCustomRules.txt">MoonWWY的YYYCustomRules</a></li>
     <li><a href="https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt">adblockfilters规则</a></li>
     <li><a href="https://anti-ad.net/easylist.txt">anti-AD DNS过滤版</a></li>
-    <li><a href="https://gitee.com/xiac520/Advertisement">gitee xiac520的部分规则</a></li>
     <li><a href="https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt">Perflyst and Dandelion Sprout's Smart-TV Blocklist</a></li>
     <li><a href="https://www.i-dont-care-about-cookies.eu/abp/">I don’t care about cookies</a></li>
     <li><a href="https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt">Fanboy’s Annoyances List</a></li>
