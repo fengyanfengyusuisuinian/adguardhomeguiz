@@ -46,12 +46,8 @@
     <li><a href="https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt">Perflyst and Dandelion Sprout's Smart-TV Blocklist</a></li>
     <li><a href="https://www.i-dont-care-about-cookies.eu/abp/">I don’t care about cookies</a></li>
     <li><a href="https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt">Fanboy’s Annoyances List</a></li>
-    <li><a href=" https://raw.githubusercontent.com/easonjim/blackhosts/master/hosts"> blackhosts的屏蔽国内广告hosts</a></li>
-    <li><a href=" https://raw.githubusercontent.com/easonjim/blackhosts/master/CustomHosts"> blackhosts的屏蔽国内各大直播网站hosts</a></li>
-   
+    <li><a href="https://raw.githubusercontent.com/easonjim/blackhosts/master/hosts"> blackhosts的屏蔽国内广告hosts</a></li>
+    <li><a href="https://raw.githubusercontent.com/easonjim/blackhosts/master/CustomHosts"> blackhosts的屏蔽国内各大直播网站hosts</a></li>
 
-
-
-  
 </ul>
 </details>
