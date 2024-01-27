@@ -97,7 +97,12 @@ application:
 
       - name: Fanboy's Annoyance List
         path: https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
-
+      
+      - name: 屏蔽国内广告hosts
+        path: https://raw.githubusercontent.com/easonjim/blackhosts/master/hosts
+        
+      - name: 屏蔽国内各大直播网站hosts
+        path: https://raw.githubusercontent.com/easonjim/blackhosts/master/CustomHosts
 
     #本地规则请将文件放置到项目路径rule目录中
     local:
