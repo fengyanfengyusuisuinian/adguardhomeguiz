@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-02-04 16:12:44
+! Last Modified: 2024-02-05 00:11:34
 ! Rule Homepage: https://github.com/superbigsteam/adguardhomeguiz
 ! Repository template Homepage: https://github.com/fordes123/ad-filters-subscriber
 ! 👇This Part Merge from: AdAway Default Blocklist (https://adaway.org/hosts.txt)
@@ -11180,6 +11180,9 @@
 127.0.0.1 huodong.mobilem.360.cn
 127.0.0.1 pt.trafficjunky.net
 127.0.0.1 sync.shinobi.jp
+! 👇This Part Merge from: xndeye的私有规则 (https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt)
+110.43.121.249  	bigota.d.miui.com
+110.43.121.249   	hugeota.d.miui.com
 ! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
 140.82.113.26                 live.github.com
 140.82.114.21                 central.github.com
@@ -11193,6 +11196,7 @@
 140.82.114.22                 collector.github.com
 151.101.1.194                 github.global.ssl.fastly.net
 185.199.108.153               github.io
+185.199.108.133               objects.githubusercontent.com
 185.199.111.133               favicons.githubusercontent.com
 140.82.114.6                  api.github.com
 185.199.111.133               avatars0.githubusercontent.com
@@ -11208,21 +11212,17 @@
 185.199.111.133               avatars.githubusercontent.com
 140.82.113.25                 alive.github.com
 140.82.113.4                  gist.github.com
-185.199.111.133               objects.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
 140.82.112.21                 education.github.com
 140.82.112.17                 github.community
 52.217.202.105                github-production-release-asset-2e65be.s3.amazonaws.com
 185.199.111.133               avatars4.githubusercontent.com
 54.231.128.145                github-cloud.s3.amazonaws.com
+185.199.111.133               cloud.githubusercontent.com
 13.107.253.40                 vscode.dev
-54.231.229.9                  github-com.s3.amazonaws.com
 185.199.108.153               assets-cdn.github.com
 185.199.111.133               user-images.githubusercontent.com
-185.199.108.133               cloud.githubusercontent.com
-! 👇This Part Merge from: xndeye的私有规则 (https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt)
-110.43.121.249  	bigota.d.miui.com
-110.43.121.249   	hugeota.d.miui.com
+3.5.0.201                     github-com.s3.amazonaws.com
 ! 👇This Part Merge from: YYY Custom Rules (https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt)
 222.211.77.45 bigota.d.miui.com
 127.0.0.1 rr1---sn-ni5eln7z.gvt1.com
@@ -11291,7 +11291,6 @@
 127.0.0.1 de-mi-nis-ner.info
 127.0.0.1 gallery.pandora.xiaomi.com
 127.0.0.1 mazu.sec.miui.com
-185.199.111.133               cloud.githubusercontent.com
 127.0.0.1 rtmretry.kugou.com
 185.199.110.133               avatars3.githubusercontent.com
 127.0.0.1 www.inpost-polska-mi.order6457.me
@@ -11345,6 +11344,7 @@
 185.199.110.133               raw.githubusercontent.com
 223.247.108.238 hugeota.d.miui.com
 127.0.0.1 inpost-polska-mi.order6457.me
+185.199.111.133               objects.githubusercontent.com
 123.6.13.6 hugeota.d.miui.com
 127.0.0.1 mi-olx.pl
 127.0.0.1 mi.miliboo.lu
