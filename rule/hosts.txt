@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-02-13 08:47:24
+! Last Modified: 2024-02-13 16:14:00
 ! Rule Homepage: https://github.com/superbigsteam/adguardhomeguiz
 ! Repository template Homepage: https://github.com/fordes123/ad-filters-subscriber
 ! 👇This Part Merge from: AdAway Default Blocklist (https://adaway.org/hosts.txt)
@@ -11189,9 +11189,7 @@
 52.216.9.35                   github-cloud.s3.amazonaws.com
 140.82.113.5                  api.github.com
 185.199.111.133               avatars5.githubusercontent.com
-185.199.111.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
-52.216.38.233                 github-production-user-asset-6210df.s3.amazonaws.com
 185.199.111.133               raw.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
 192.0.66.2                    github.blog
@@ -11199,6 +11197,7 @@
 185.199.111.133               avatars0.githubusercontent.com
 140.82.113.18                 github.community
 140.82.112.9                  codeload.github.com
+185.199.109.133               github.map.fastly.net
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.109.153               assets-cdn.github.com
 185.199.111.133               avatars1.githubusercontent.com
@@ -11212,6 +11211,7 @@
 54.231.161.153                github-production-release-asset-2e65be.s3.amazonaws.com
 140.82.113.4                  gist.github.com
 185.199.111.133               objects.githubusercontent.com
+52.217.230.249                github-production-user-asset-6210df.s3.amazonaws.com
 185.199.111.133               avatars2.githubusercontent.com
 140.82.112.21                 education.github.com
 140.82.113.22                 collector.github.com
@@ -11307,6 +11307,7 @@
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 vweixinthumb.tc.qq.com
 127.0.0.1 preview-api.installer.xiaomi.com
+185.199.111.133               github.map.fastly.net
 52.216.250.220                github-cloud.s3.amazonaws.com
 127.0.0.1 log.avlyun.sec.intl.miui.com
 52.217.10.60                  github-production-user-asset-6210df.s3.amazonaws.com
