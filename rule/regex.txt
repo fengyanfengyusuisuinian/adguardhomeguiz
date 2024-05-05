@@ -1,18 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-05 16:13:03
+! Last Modified: 2024-05-06 00:13:06
 ! Rule Homepage: https://github.com/superbigsteam/adguardhomeguiz
 ! Repository template Homepage: https://github.com/fordes123/ad-filters-subscriber
-! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt )
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||adi*.cnool.net^
-||tupian888.*.bcebos.com^
-||ad*.on.cc^
-||ax.*.ifeng.com^
-||121.204.246.*.gif
-||vns86.oss-*.aliyuncs.com^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: AdGuard 移动广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt)
 ||reachableads-av.*.amazonaws.com^
 ||ads-*-nfl.yinzcam.com^
@@ -49,6 +39,16 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
+! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt )
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
+||tupian888.*.bcebos.com^
+||ad*.on.cc^
+||ax.*.ifeng.com^
+||121.204.246.*.gif
+||vns86.oss-*.aliyuncs.com^
+||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: damengzhu/banad  (https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt )
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
@@ -73,60 +73,6 @@
 ||zbc6hy*.live^
 ||gtlpa*.com^
 ||at*.doubanio.com^
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||fxhpaoxqyajvmdg.
-||rgfftupf.
-||prebid-*.rubiconproject.com^
-! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt )
-||sax*.sina.
-||bd*-ys.km.com^
-||same*.stockstar.com^
-||impservice*.youdao.com^
-||impservice*.yodao.com^
-||a*.chajiaotong.com^
-||ac*.faxingchina.com^
-||ac*.786ip.com^
-||ya*.dwstatic.com^
-||js*.abolezi.com^
-||sam*.baby-kingdom.com^
-||ja*.gamersky.com^
-||ac*.pingguolv.com^
-! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt )
-||bdcpro*.techweb.com.cn^
-||dm*.ppzuowen.com^
-||dm*.yxlady.com^
-||uc*.atobo.com^
-||gcw*.2liang.cn^
-||d*.ruiwen.com^
-||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
-||bdlm*.hc360.com^
-||fpb1.chinacar.
-||d*.xinshipu.com^
-||fpb*.51edu.com^
-||qpb*.sohu.com^
-||static*.365inews.com^
-||union*.365inews.com^
-||ysdm*.ys137.com.cn^
-! 👇This Part Merge from: CJX's Annoyance List (https://filters.adtidy.org/extension/ublock/filters/220.txt )
-||acookie.*.gif?
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-||gamenguide.com*adbk
-||pijama.*.elasticbeanstalk.com^
-||itechpost.com*adbk
-! 👇This Part Merge from: AdBlocker Ultimate  (https://filters.adavoid.org/ultimate-ad-filter.txt )
-Banner468x60
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-||fapnado.*.php|
-! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt )
-||widgets.*.webengage.com^
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-rgmechanicsgames.com*VPN.exe
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-||ads*.dfiles.ru^
 ! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -229,17 +175,131 @@ rgmechanicsgames.com*VPN.exe
 ||host*.rigbyandpeller.com^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
+! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt )
+||sax*.sina.
+||bd*-ys.km.com^
+||same*.stockstar.com^
+||impservice*.youdao.com^
+||impservice*.yodao.com^
+||a*.chajiaotong.com^
+||ac*.faxingchina.com^
+||ac*.786ip.com^
+||ya*.dwstatic.com^
+||js*.abolezi.com^
+||sam*.baby-kingdom.com^
+||ja*.gamersky.com^
+||ac*.pingguolv.com^
+! 👇This Part Merge from: AdGuard 中文过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt )
+||bdcpro*.techweb.com.cn^
+||dm*.ppzuowen.com^
+||dm*.yxlady.com^
+||uc*.atobo.com^
+||gcw*.2liang.cn^
+||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
+||dn*.ixinwei.com^
+||bdlm*.hc360.com^
+||fpb1.chinacar.
+||d*.xinshipu.com^
+||fpb*.51edu.com^
+||qpb*.sohu.com^
+||static*.365inews.com^
+||union*.365inews.com^
+||ysdm*.ys137.com.cn^
+! 👇This Part Merge from: CJX's Annoyance List (https://filters.adtidy.org/extension/ublock/filters/220.txt )
+||acookie.*.gif?
+! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
+||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
+||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
 ! 👇This Part Merge from: AdBlocker Ultimate  (https://filters.adavoid.org/ultimate-ad-filter.txt )
-||ads*.dfiles.eu^
-@@||adobeid-*.services.adobe.com^
-||ads*.depositfiles.com^
+||gamenguide.com*adbk
+||pijama.*.elasticbeanstalk.com^
+||itechpost.com*adbk
+! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt )
 ||get-me-wow.
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
-! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
+! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt )
+||spryptvqguhpwt^
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
+||counter*.stat.ovh^
+||ads.livetv*.me^
+||fxhpaoxqyajvmdg.
+||rgfftupf.
+||prebid-*.rubiconproject.com^
+! 👇This Part Merge from: AdBlocker Ultimate  (https://filters.adavoid.org/ultimate-ad-filter.txt )
+||fapnado.*.php|
+Banner468x60
+! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt )
+||158.247.208.
+||23.109.82.
+||142.91.159.
+||23.109.87.
+! 👇This Part Merge from: AdBlocker Ultimate  (https://filters.adavoid.org/ultimate-ad-filter.txt )
+rgmechanicsgames.com*VPN.exe
+||ads*.dfiles.eu^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
+||ads*.dfiles.ru^
+! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt )
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||cas.*.criteo.com^
+||allsportsflix.
+||cintent.streanplay.
+! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
+directtrack.*.js
+! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
+||tracking.*.miui.com^
+||grs.dbankcloud.
+||datacollector-*.dt.hicloud.com^
+||mapi-log.qoo*.jp^
+||analytics-*-nfl.yinzcam.com^
+||mon*-platform-*.tiktokv.com^
+||api*.amplitude.com^
+||invenio_tracking_*.sgnapps.com^
+||report.*.qq.com^
+||liveme-sensors-collect2-*.amazonaws.com^
+||seller-log-collector.shopee.
+||tracking-*.trnox.com^
+||log*-applog-*.tiktokv.com^
+||ubacollect-*.cloud.dbankcloud.cn^
+||track.*.roku.com^
+||appanalysis*.banggood.com^
+||device-metrics-*.amazon.com^
+||maas-*.phunware.com^
+||batchlogging*-eu.truecaller.com^
+||log-collector.shopee.
+||report*.appmetrica.webvisor.com^
+||fp-*it*.fengkongcloud.com^
+||log*-misc-lf.amemv.com^
+||beacons*.gvt3.com^
+||rtlog*.tiktokv.com^
+||flurry.agentportal.*.yahoodns.net^
+||logservice-*.platform.dbankcloud.cn^
+esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||datacollector-*.dt.dbankcloud.cn^
+||piano_log.kingsoft.jp^
+||f-log-*.grammarly.io^
+||flurry.agentportal-*.yahoodns.net^
+||log*.byteoversea.com^
+||batchlogging*-noneu.truecaller.com^
+||imp-*.jampp.com^
+! 👇This Part Merge from: AdGuard 恼人广告过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt )
+||widgets.*.webengage.com^
+! 👇This Part Merge from: 自用白名单规则 (https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/zhiyongguiz.txt)
+||pglstatp-toutiao.com^ ​‌​‍‍‍‍‌‍‌​​​‌‍
+||polaris*-normal-hl.zijieapi.com^$important
+||tnc*.zijieapi.com^
+! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt )
+||bc.geocities.
+||collector-*.px-client.net^
+||geotargetly-api-*.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+! 👇This Part Merge from: YYY Custom Rules (https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt)
 @@||f*.market.mi-img.com^$important
 @@|tnc3-aliec2.snssdk.com^
 MRelateFeedAd
+analytics-*.aasaam.com
 @@|abtest3-misc-lf.zijieapi.com^
 @@|m.image.so.com^
 @@||p*.music.126.net^$important
@@ -249,55 +309,34 @@ MRelateFeedAd
 @@|api.iplay.163.com
 @@cdn.*.qq.com
 @@||pic*.iqiyipic.com^$important
-728x90.jpg|
-Banner-Adv
 @@|img1.360buyimg.com^
+b站视频加载
 @@||pic*.zhimg.com^$important
 @@|api*-normal.fqnovel.com^
+||1024wanzhai.
 @@|img.samsungapps.com^
+l*.bytescm.com^
+consumerapp*.image.myqcloud.com^
 @@|log5-applog-lf.fqnovel.com^
+@@||profile*.se.360.cn^
 @@||v*-dc-ad.ixigua.com^$important
+piao.js|
 @@|v*-novelapp.fqnovelvod.com^
+oHead6205.appendChild( oScript6205);
+||09_19.supfree.net^
 @@|down.360safe.com^
 advertisers.js|
 @@|api*-normal-lf.fqnovel.com^
 @@|v*-fq-tts.fqnovelvod.com^
 @@|img.galaxyappstore.com^
-Banner-Ad
+@@||tongji.*kuwo.cn^
 @@|reading.snssdk.com^
 @@|img.ssl.msdk.qq.com^
-! 👇This Part Merge from: AdBlocker Ultimate  (https://filters.adavoid.org/ultimate-ad-filter.txt )
-||spryptvqguhpwt^
-! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
-||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
-||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-||ads*.opensubtitles.org^
-||158.247.208.
-||23.109.82.
-||142.91.159.
-||23.109.87.
-@@||cdn*.porn300.com^
-! 👇This Part Merge from: 自用白名单规则 (https://raw.githubusercontent.com/superbigsteam/adguardhomeguiz/main/rule/zhiyongguiz.txt)
-||pglstatp-toutiao.com^ ​‌​‍‍‍‍‌‍‌​​​‌‍
-||polaris*-normal-hl.zijieapi.com^$important
-||tnc*.zijieapi.com^
-! 👇This Part Merge from: YYY Custom Rules (https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt)
-l*.bytescm.com^
-@@||profile*.se.360.cn^
-piao.js|
-@@||tongji.*kuwo.cn^
-oHead6205.appendChild( oScript6205);
-||09_19.supfree.net^
 getAds|
-||1024wanzhai.
 ! 👇This Part Merge from: AdBlocker Ultimate  (https://filters.adavoid.org/ultimate-ad-filter.txt )
-||util-*.simply-hentai.com^
-||centent.streamp1ay.
-||cintent.streanplay.
-! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
-||cas.*.criteo.com^
-||allsportsflix.
+@@||adobeid-*.services.adobe.com^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ! 👇This Part Merge from: Perflyst and Dandelion Sprout's Smart-TV Blocklist (https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt)
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
@@ -309,42 +348,32 @@ getAds|
 ||hbbtv.*.de^
 |lgtvsdp.com^
 ! 👇This Part Merge from: YYY Custom Rules (https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt)
+||ad*.bilgin.pro^
+||ad-*file.myqcloud.com^
 ||access*.tpns.tencent.com^
+||ad.
+||ad-
+||ad*.tmgrup.com.tr^
 ||access.pangolin-sdk-toutiao-*.com^
-! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
-||adsfileretry.
-||adx.
-||adx-
-||adsfs.
-||adv.
-||adv-
-analytics-*.aasaam.com
-||adsmind.
-||adsfile.
-||adsmis.
-||adsfilebssdlbig.*.kugou.com^
-||adshare.
-||8*.tianya.cn^
-||adstats.
-||adserver1.
-b站视频加载
-||adsmind.gdtimg.com||
-outlook.live.com._6tqjFb_HmyQup_NPe6dhC
-||advert.
-||advert-
-takeover_background.
-consumerapp*.image.myqcloud.com^
-||advertising.
-||120.27.*.html
-||adxapi.
-||adservice.
-||adx-*anythinktech.com^
-takeover_banner_
+! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt )
+||stat.*.v-56.com^
+||matt.mercadolibre.
+||stats-*.p2pnow.ru^
+||tccd.douglas.
+||stats*.credit-cooperatif.coop^
+||sta.extreme-down.
+||stats2.*.fdnames.com^
+||tracker.twenga.
+||fb_servpub-a.akamaihd.net^
 ||aff*.kolektiva.net^
-||113.17.188.*.js
-||advertise.
-||218.26.217.*.html
-||122.225.103.*.htm
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||sta.zone-telechargement.
+||sta.wawacity.
+||analytics.ticketmaster.
+||df.infra.shopee.
+! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt )
+||onetrust.
 ! 👇This Part Merge from: anti-AD的DNS过滤版 (https://anti-ad.net/easylist.txt)
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -436,34 +465,60 @@ takeover_banner_
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
 ||adwords*.*^
+! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
+728x90.jpg|
+Banner-Adv
+Banner-Ad
+outlook.live.com._6tqjFb_HmyQup_NPe6dhC
+! 👇This Part Merge from: AdGuard 基础过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt)
+||ads*.opensubtitles.org^
+@@||cdn*.porn300.com^
 ! 👇This Part Merge from: YYY Custom Rules (https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt)
 ||ads*-normal-hl.amemv.com^
+||adsfileretry.
+||adx.
+||adx-
 ||adserver*.euroweeklynews.com^
+||adsfs.
+||adv.
+||adv-
+||alishop*.ru^
 ||adsdk.
+||adsmind.
+||adsfile.
+||adsmis.
 ||adserver.
 ||ads*-normal-lf.zijieapi.com^
-||ad*.bilgin.pro^
+||adsfilebssdlbig.*.kugou.com^
+||adshare.
 ||ads*-normal-lf.zijieapi.com.dhcp^
+||adstats.
+||adserver1.
+||adsmind.gdtimg.com||
 ||adsense.
 ||ads*-normal-lq.amemv.com^
+||advert.
+||advert-
 ||ads*kugou.com^
 ||ading.
-||ad-*file.myqcloud.com^
+||allyes.
 ||adcolony.
 ||ads-
 ||admulti.
-||ad.
-||ad-
+||advertising.
 ||ads.
-||ad*.tmgrup.com.tr^
 ||ads*-normal-lf.amemv.com^
+||adxapi.
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal.amemv.com^
 ||adsence.
+||adservice.
+||adx-*anythinktech.com^
 ||ads*.zijieapi.com^
 ||ads.*.kugou.com^
 ||ads*-normal.zijieapi.com^
 ||adexpo.tencentmusic.com adclick.tencentmusic.com^
+||advertise.
 ||ads*-normal-lq.zijieapi.com.queniuiq.com^
 ||adapi.
 ||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
@@ -478,173 +533,97 @@ cookiePolicyEUPopin*
 eu_cookie_banner.js^
 informacja_cookies.js^
 flipdish-cookie-consent*
-! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
-directtrack.*.js
+! 👇This Part Merge from: YYY Custom Rules (https://raw.githubusercontent.com/MoonWWY/YYYCustomRules/main/YYYCustomRules.txt)
+||appjiagu.
+||an.yandex.
+||api-access.pangolin-sdk-toutiao*.com^
+||ap*.pl520.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+||ap*.jj20.com^
 ! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
 ||dl_dir2.qq.com^
-||liveweb*.msstatic.com^
-||logs*.smithsonian.museum^
+||cpro.
+||cpng.lol.^
 ||bar*.shinobi.jp^
-||an.yandex.
 ||counter*.freecounter.ovh^
-||grs.dbankcloud.
+||img.piaosugo.com*.jpg
 ||app2.*dfs.com^
+||dw-informer-*.newsru.com^
 ||bigdata.
-||log*-misc-lq.amemv.com^
+||banner*.kinogo.by^
+||cl*.k5a.io^
 ||dm-*.toutiao.com^
-||lf*-orange.byteorge.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
+||8*.tianya.cn^
 ||i-*.ci360.sas.com^
-||analytics-*-nfl.yinzcam.com^
 ||d*.wanzhuang.com^
-||api*.amplitude.com^
+||basvformu*.xyz^
+||guangyaoli.
 ||iphone-caviar.ru*entranceId
-||matomo.*.vn^
+||block.s*block.com^
 ||bondzgi*.
 ||ggg.
 ||irs01.
-||appanalysis*.banggood.com^
-||device-metrics-*.amazon.com^
-||allyes.
-||logagent-rum-
+takeover_background.
+||googleads.
 ||dl_dir.qq.com^
-||lf*-cdn-tos.bytegoofy.com^
-||api-access.pangolin-sdk-toutiao-*.com^
-||fp-*it*.fengkongcloud.com^
+||120.27.*.html
 ||iad.*.163.com^
+||goodadvert.
 ||djjca.
+takeover_banner_
+||cdn*.swaxis.com^
 ||eclog*-*.cafe24.com^
 ||imageadv.
-||m-vali.cp31.ott.cibntv.net*.mp4
+||bms*.adjarabet.com^
 ||clk.rtpdn*.com^
+||113.17.188.*.js
 ||epochtimes^
 ||flipflapflo.
 ||gonews*.net^
-||datacollector-*.dt.dbankcloud.cn^
-||f-log-*.grammarly.io^
-||log-*.zadn.vn^
-||batchlogging*-noneu.truecaller.com^
-||dns.weixin.qq.com*^
-||imp-*.jampp.com^
-||cpro.
-||m7k4.com*.php?
-||alishop*.ru^
-||cpng.lol.^
-||log-api.pangolin-sdk-toutiao-*.com^
-||appjiagu.
-||img.piaosugo.com*.jpg
-||api-access.pangolin-sdk-toutiao*.com^
-||dw-informer-*.newsru.com^
-||datacollector-*.dt.hicloud.com^
-||line*-adscore-api.biligame.net^
-||letssex.
-||banner*.kinogo.by^
-||cl*.k5a.io^
-||mautic.*.vn^
-||basvformu*.xyz^
-||guangyaoli.
-||linkexchange.
-||block.s*block.com^
-||googleads.
-||log-*.epicdn.me^
-||batchlogging*-eu.truecaller.com^
-||beacons*.gvt3.com^
-||goodadvert.
-||ap*.jj20.com^
-||livetracker.*.pangea-cms.com^
-||log*-normal-lq.toutiaoapi.com^
-||cdn*.swaxis.com^
-||flurry.agentportal.*.yahoodns.net^
-||bms*.adjarabet.com^
-||kit-device-log-
 ||icq-window.
-||ap*.pl520.com^
+||218.26.217.*.html
 ||icqwindow.
 ||firebaselogging-*.googleapis.com^
-||flurry.agentportal-*.yahoodns.net^
+||122.225.103.*.htm
 ||c.*.qq.com^
-||lf*-ad-union-sdk.pglstatp-toutiao.com^
-! 👇This Part Merge from: AdGuard 防跟踪保护过滤器 (https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
-||maas-*.phunware.com^
-||tracking.*.miui.com^
-||log-collector.shopee.
-||report*.appmetrica.webvisor.com^
-||mapi-log.qoo*.jp^
-||log*-misc-lf.amemv.com^
-||rtlog*.tiktokv.com^
-||mon*-platform-*.tiktokv.com^
-||logservice-*.platform.dbankcloud.cn^
-||invenio_tracking_*.sgnapps.com^
-||report.*.qq.com^
-||liveme-sensors-collect2-*.amazonaws.com^
-||seller-log-collector.shopee.
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||piano_log.kingsoft.jp^
-||tracking-*.trnox.com^
-||log*-applog-*.tiktokv.com^
-||ubacollect-*.cloud.dbankcloud.cn^
-||log*.byteoversea.com^
-||track.*.roku.com^
-! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt )
-||bc.geocities.
-||collector-*.px-client.net^
-||stats-*.p2pnow.ru^
-||tccd.douglas.
-||mcdp-*.outbrain.com^
-||stats2.*.fdnames.com^
-||tracker.twenga.
-||fb_servpub-a.akamaihd.net^
-||geotargetly-api-*.com^
-||df.infra.sz.shopee.
-||log-*.previewnetworks.com^
-||analytics.ticketmaster.
-||df.infra.shopee.
-! 👇This Part Merge from: halflife-list (https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt )
-||stats.zone-annuaire.
-||stat.*.v-56.com^
-||matt.mercadolibre.
-||sta.zone-telechargement.
-||stats*.credit-cooperatif.coop^
-||sta.wawacity.
-||sta.extreme-down.
+||dns.weixin.qq.com*^
 ! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
+||liveweb*.msstatic.com^
 ||pangolin-sdk-toutiao*.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||sell*.etlong.com^
 ||smartads.
 ||teleriumads-*.netdna-ssl.com^
-||w*.*skwai.com^
 ||uploads*.ksapisrv.com^
 ||popup.*.js*
-||w*statistics.info^
 ||partner.superbahisaffiliates*.com^
-||webcast*-open-hl.douyin.com^
 ||v.tzbox*.xyz^
 ||pglstatp-toutiao.com^ ​‌​‍‍‍‍‌‍‌​​​‌‍||p3-sign.douyinpic.com^
 ||tnc3-bjlgy.snssdk.^
 ||u*.takru.com^
 ||rotabanner.
 ||metrics*.fitanalytics.com^
-||www.fuze-sea*.xyz^
 ||p*-ad-aweme.byteimg.com^
 ||real*traf.ru^
-||onetrust.
 ||p*-lm.adukwai.com^
 ||uploads*.gifshow.com^
 ||underclick.
 ||tag-based.s3.*.amazonaws.com^
 ||pangolin-sdk^
+||log-api.pangolin-sdk-toutiao-*.com^
+||line*-adscore-api.biligame.net^
 ||sense-*.tapdb.net^
 ||suite*.linximpulse.net^
 ||tnc*-bjlgy.zijieapi.com^
 ||pop-under.
 ||talpa-analytics.
+||linkexchange.
 ||p*-lm.adkwai.com^
-||wxtracelogprd-
-||web-visor.
 ||umengacs.
 ||under-click.
 ||rconfig-*.file.myqcloud.com^
+||log-*.epicdn.me^
 ||trtc-sdk-log-
 ||p*-ad.byteimg.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
@@ -652,38 +631,48 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||useronline-*.image.myqcloud.com^
 ||v*-novelapp.fqnovelvod.com^
 ||rb*.design.ru^
+||logs*.smithsonian.museum^
 ||upos-*-static.bilivideo.com^
+||log*-misc-lq.amemv.com^
 ||ulog*.*^
+||lf*-orange.byteorge.com^
 ||player.letvcdn.com*.swf|
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||rs*.qq.com^
 ||toujing*.top^
 ||upload_data.qq.com^
+||matomo.*.vn^
 ||subnewss*.net^
 ||medialand.
 ||rotaban.
 ||rusrestbest.
 ||showad*
+||logagent-rum-
 ||v.newsportal*.ru^
+||lf*-cdn-tos.bytegoofy.com^
 ||teasernet.
 ||pangolin-sdk-toutiao*
 ||p*-local-ads.byteimg.com.queniuso.com^
 ||popuptraf.
 ||pagead.
-||videoclik.
 ||poshalim.
+||m-vali.cp31.ott.cibntv.net*.mp4
 ||p*-local-ads.byteimg.com^
 ||nadvideo*.baidu.com^
 ||nsp-logservice
 ||sf*-ttcdn-tos.pstatp.com^
 ||mgsdk-sign^
+||log-*.zadn.vn^
 ||orbit*.lun.ua^
 ||sf*-fe-tos.pglstatp-toutiao.com^
+||m7k4.com*.php?
 ||popupclick.
 ||s*a.pstatp.com^
 ||piwik.*.vn^
 ||q*-publick.club^
+||letssex.
 ||minitds-*.info^
+||mautic.*.vn^
 ||s*-fe-scm.pglstatp-toutiao.com^
 ||s*.adduplex.com^
 ||pc.min.js*
@@ -692,24 +681,35 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||pagead2.
 ||upweb-app-log-
 ||pop-parad.
-||wallpaper-*.file.myqcloud.com^
 ||mediacontext.
-||videoclick.
-||www.fuze-hill*.xyz^
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||parkdomainreal*.site^
 ||piwik.*.com.vn^
 ||popunder.
+||livetracker.*.pangea-cms.com^
+||log*-normal-lq.toutiaoapi.com^
 ||p*-webcast-sign.douyinpic.com^
 ||quangcao-*.epicdn.me^
 ||rotator.
+||kit-device-log-
 ||mf*.advantage.as^
 ||poptraf.
+||lf*-ad-union-sdk.pglstatp-toutiao.com^
 ||v*.sitecounter.site^
 ! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
+||wallpaper-*.file.myqcloud.com^
+||videoclick.
+||webcast*-open-hl.douyin.com^
+||www.fuze-hill*.xyz^
+||www.fuze-sea*.xyz^
+~Prebid.js
+||w*.*skwai.com^
+||videoclik.
 ||yazhouyu.
 ＃去除丰巢新版取件码页面广告
-~Prebid.js
+||w*statistics.info^
+||wxtracelogprd-
+||web-visor.
 ! 👇This Part Merge from: adblockfilters规则 (https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
 ||new_webmail365-ajuea2ri.4everland.app^
 ! 👇This Part Merge from: adblockfilters规则 (https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt)
