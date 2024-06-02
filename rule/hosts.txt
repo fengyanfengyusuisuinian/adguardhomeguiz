@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-02 00:12:39
+! Last Modified: 2024-06-02 08:55:33
 ! Rule Homepage: https://github.com/superbigsteam/adguardhomeguiz
 ! Repository template Homepage: https://github.com/fordes123/ad-filters-subscriber
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
@@ -3685,6 +3685,7 @@
 127.0.0.1 webdevelopmentcompany.j8inn1zektoe.com
 127.0.0.1 alimama.alicdn.com
 127.0.0.1 worldwide-defence.j8inn1zektoe.com
+127.0.0.1 c1.adform.net
 127.0.0.1 count33.51yes.com
 127.0.0.1 gigaonclick.com
 127.0.0.1 sync.adx.adnxs.com
@@ -4752,6 +4753,7 @@
 127.0.0.1 www.adexchangecloud.com
 127.0.0.1 openx.net
 127.0.0.1 www.067555.com
+127.0.0.1 cdn.adnxs.com
 127.0.0.1 cai35ppp.com
 127.0.0.1 activate-sjc0.adobe.com
 127.0.0.1 vhldwuv6om.com
@@ -9530,7 +9532,6 @@
 127.0.0.1 iteratehq.com
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 api.voiceads.cn
-127.0.0.1 cdn.adnxs.com
 127.0.0.1 mxase.clmbtech.com
 127.0.0.1 id.analytics.glance.inmobi.com
 127.0.0.1 collector.snplow.net
@@ -10498,7 +10499,6 @@
 127.0.0.1 cookiesync.mparticle.com
 127.0.0.1 frtn.socdm.com
 127.0.0.1 agent.tamedia.com.tw
-127.0.0.1 c1.adform.net
 127.0.0.1 pixel.advertising.com
 127.0.0.1 widget-cdn.rpxnow.com
 127.0.0.1 onrt.stsdk.vivoglobal.com
@@ -11782,6 +11782,7 @@
 127.0.0.1 demo.tingyun.com
 127.0.0.1 apm3.tingyun.com
 127.0.0.1 spdmg.i-mobile.co.jp
+16.182.35.225                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 127.0.0.1 jupiter.sys.miui.com
 127.0.0.1 dss2.bdstatic.com
 127.0.0.1 kr59779-qq.com
@@ -11916,7 +11917,6 @@
 127.0.0.1 mi.miliboo.com
 127.0.0.1 p3-ad.adukwai.com
 127.0.0.1 shjs.irs01.com
-54.231.236.241                github-production-user-asset-6210df.s3.amazonaws.com
 127.0.0.1 mon11-misc-lq.toutiaoapi.com
 127.0.0.1 cdn.banyunjuhe.com
 127.0.0.1 c.mpl.dutils.com
@@ -12103,7 +12103,6 @@
 127.0.0.1 sdk.conf.getui.com
 127.0.0.1 kadmimage.biz.weibo.com
 127.0.0.1 smartsails.voiceads.cn
-185.199.108.133               user-images.githubusercontent.com
 127.0.0.1 i.qchannel03.cn
 127.0.0.1 download.sharesdk.mob.com
 127.0.0.1 pitaya.bytedance.com
@@ -12197,7 +12196,6 @@
 127.0.0.1 encounter.bz.mgtv.com
 127.0.0.1 cc.sys.intl.xiaomi.com
 127.0.0.1 databank.air.yoyi.com.cn
-185.199.108.133               avatars4.githubusercontent.com
 127.0.0.1 s.w.org
 127.0.0.1 ssl-cdn.static.browser.mi-img.com
 127.0.0.1 support.umeng.com
@@ -12316,7 +12314,6 @@
 127.0.0.1 amsapp.yicai.com
 127.0.0.1 m-mpl.hiaiabc.com
 127.0.0.1 openacs4uc.m.taobao.com
-3.5.1.131                     github-com.s3.amazonaws.com
 127.0.0.1 mi.eulerian.net
 127.0.0.1 auth.api.gitv.tv
 127.0.0.1 cgi.connect.qq.com
@@ -12633,6 +12630,7 @@
 127.0.0.1 p.l.youku.com
 127.0.0.1 da.anythinktech.com
 13.107.213.51                 vscode.dev
+54.231.200.193                github-com.s3.amazonaws.com
 140.82.112.3                  github.com
 127.0.0.1 p1-jx.adukwai.com
 127.0.0.1 api-cn.store.heytapmobi.com
@@ -12787,7 +12785,6 @@
 127.0.0.1 dplus.umeng.com
 127.0.0.1 rh.qq.com
 127.0.0.1 mw.app.qq.com
-185.199.110.153               assets-cdn.github.com
 127.0.0.1 g-adnet.hiaiabc.com
 127.0.0.1 crashdump.spotify.com
 127.0.0.1 idaa.shuzilm.cn
@@ -13082,6 +13079,7 @@
 127.0.0.1 ap.dongqiudi.com
 127.0.0.1 gouwu.mediav.com
 127.0.0.1 mobile-symbol-upload.tingyun.com
+52.217.69.60                  github-production-release-asset-2e65be.s3.amazonaws.com
 127.0.0.1 wshzn.gepush.com
 127.0.0.1 td2.crwdcntrl.net
 127.0.0.1 heads-cf.spotify.com
@@ -13201,7 +13199,6 @@
 127.0.0.1 cm-10-39.getui.com
 127.0.0.1 img.jiguang.cn
 127.0.0.1 yktd.cm.cn.miaozhen.com
-185.199.110.153               githubstatus.com
 127.0.0.1 gromore.pangolin-sdk-toutiao.com
 127.0.0.1 irnvf.lu.sogou.com
 127.0.0.1 along.umeng.com
@@ -13240,7 +13237,6 @@
 127.0.0.1 render-server.cdn.bcebos.com
 127.0.0.1 display.wting.info
 127.0.0.1 ca.gtimg.com
-52.217.232.113                github-production-release-asset-2e65be.s3.amazonaws.com
 127.0.0.1 umeng.cn
 127.0.0.1 weblog.html5.qq.com
 127.0.0.1 api.sdk.admobile.top
@@ -13414,6 +13410,7 @@
 140.82.112.22                 central.github.com
 140.82.114.5                  api.github.com
 127.0.0.1 img3.360buyimg.com
+54.231.236.241                github-production-user-asset-6210df.s3.amazonaws.com
 127.0.0.1 img2.360buyimg.com
 3.5.17.101                    github-cloud.s3.amazonaws.com
 140.82.113.10                 codeload.github.com
@@ -13428,6 +13425,5 @@
 127.0.0.1 p9-webcast.douyinpic.com
 127.0.0.1 p26.douyinpic.com
 140.82.112.4                  github.com
-52.217.69.60                  github-production-release-asset-2e65be.s3.amazonaws.com
 127.0.0.1 p26-sign.douyinpic.com
 140.82.113.22                 education.github.com
