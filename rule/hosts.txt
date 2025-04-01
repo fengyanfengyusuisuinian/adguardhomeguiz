@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-04-01 00:18:10
+! Last Modified: 2025-04-01 09:16:12
 ! Rule Homepage: https://github.com/superbigsteam/adguardhomeguiz
 ! Repository template Homepage: https://github.com/fordes123/ad-filters-subscriber
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
@@ -11181,6 +11181,7 @@
 127.0.0.1 creative.mathads.com
 127.0.0.1 va1.vip.prod.criteo.com
 ! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
+52.217.236.185                github-production-repository-file-5c1aeb.s3.amazonaws.com
 127.0.0.1 tz.sec.xiaomi.com
 127.0.0.1 tmfsdk.m.qq.com
 140.82.114.17                 github.community
@@ -11212,8 +11213,8 @@
 140.82.112.22                 education.github.com
 185.199.111.133               user-images.githubusercontent.com
 127.0.0.1 jupiter.intl.sys.miui.com
-52.217.105.236                github-production-repository-file-5c1aeb.s3.amazonaws.com
 127.0.0.1 staging.tracking.miui.com
+52.216.32.241                 github-production-user-asset-6210df.s3.amazonaws.com
 127.0.0.1 analytics.miui.com
 54.231.202.225                github-production-release-asset-2e65be.s3.amazonaws.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
@@ -11244,6 +11245,7 @@
 127.0.0.1 auth.be.sec.miui.com
 185.199.111.133               media.githubusercontent.com
 140.82.113.26                 alive.github.com
+185.199.108.153               githubstatus.com
 127.0.0.1 api.miui.security.xiaomi.com
 127.0.0.1 centertime.ksyun.com
 127.0.0.1 update.avlyun.sec.miui.com
@@ -11264,7 +11266,6 @@
 192.0.66.2                    github.blog
 127.0.0.1 advsec.miui.com
 127.0.0.1 ota.miuipro.org
-16.15.194.140                 github-production-user-asset-6210df.s3.amazonaws.com
 185.199.108.153               github.io
 127.0.0.1 rom.pt.miui.srv
 185.199.111.133               favicons.githubusercontent.com
@@ -11275,7 +11276,6 @@
 127.0.0.1 httpdns-sc.aliyuncs.com
 127.0.0.1 milink.ac.mi.com
 185.199.111.133               avatars3.githubusercontent.com
-185.199.111.153               githubstatus.com
 185.199.111.133               private-user-images.githubusercontent.com
 140.82.112.10                 codeload.github.com
 185.199.111.133               desktop.githubusercontent.com
