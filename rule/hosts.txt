@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-07-16 00:20:29
+! Last Modified: 2025-07-16 09:18:53
 ! Rule Homepage: https://github.com/superbigsteam/adguardhomeguiz
 ! Repository template Homepage: https://github.com/fordes123/ad-filters-subscriber
 ! 👇This Part Merge from: WindowsSpyBlocker (https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt)
@@ -423,6 +423,7 @@
 127.0.0.1 bill.agent.v-56.com
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 a.baidu.com
+127.0.0.1 au.w.inmobi.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.leadboltapps.net
 127.0.0.1 tools.3g.qq.com
@@ -464,6 +465,7 @@
 127.0.0.1 ww381.smartadserver.com
 127.0.0.1 noxagile.duapp.com
 127.0.0.1 toutiao-frontier.snssdk.com
+127.0.0.1 sdkm.w.inmobi.cn
 127.0.0.1 sjarvis.taobao.com
 127.0.0.1 msg.umengcloud.com
 127.0.0.1 ubmcmm.baidustatic.com
@@ -726,6 +728,7 @@
 127.0.0.1 vr.gdt.qq.com
 127.0.0.1 xn--xhq9mt12cf5v.website
 127.0.0.1 adm.10jqka.com.cn
+127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 cdn-sdk-opt.getui.com
 127.0.0.1 letv.irs01.com
 127.0.0.1 ad.funp.com
@@ -1025,7 +1028,6 @@
 127.0.0.1 ads.mobilityware.com
 127.0.0.1 assets.cntdy.mobi
 127.0.0.1 zs12.cnzz.com
-127.0.0.1 launches.appsflyer.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 ads.voiceads.cn
 127.0.0.1 q.i.gdt.qq.com
@@ -1211,6 +1213,7 @@
 127.0.0.1 adlaunch.qingting.fm
 127.0.0.1 oasc04012.247realmedia.com
 127.0.0.1 adcast.deviantart.com
+127.0.0.1 api.w.inmobi.com
 127.0.0.1 log-api.pangolin-sdk-toutiao.com
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
 127.0.0.1 svibeacon.onezapp.com
@@ -1254,6 +1257,7 @@
 127.0.0.1 ad4.sina.com.cn
 127.0.0.1 adcore.lenovomm.com
 127.0.0.1 ex.mobmore.com
+127.0.0.1 et.w.inmobi.com
 127.0.0.1 l.qq.com
 127.0.0.1 ad.madserving.com
 127.0.0.1 nex.163.com
@@ -1350,6 +1354,7 @@
 127.0.0.1 h-adashx.ut.youku.com
 127.0.0.1 lc.getui.com
 127.0.0.1 gas.data.pplive.com
+127.0.0.1 config.inmobi.com
 127.0.0.1 monitor-uu.play.aiseet.atianqi.com
 127.0.0.1 api.poll.aiseet.atianqi.com
 127.0.0.1 sm.domob.cn
@@ -1360,7 +1365,6 @@
 127.0.0.1 au.w.inmobi.cn
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 ei.cnzz.com
-127.0.0.1 events.appsflyer.com
 127.0.0.1 adpm.app.qq.com
 127.0.0.1 c-gtc.getui.com
 127.0.0.1 adlaunch.moji.com
@@ -1518,6 +1522,7 @@
 127.0.0.1 epp.2polj.top
 127.0.0.1 ggx01.miguvideo.com
 127.0.0.1 ad.toutiao.com
+127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 aos.wall.youmi.net
 127.0.0.1 8chzga.v.admaster.com.cn
 127.0.0.1 ad2.udn.com
@@ -1585,6 +1590,7 @@
 127.0.0.1 req3.appads.com
 127.0.0.1 f.gm.mob.com
 127.0.0.1 plbslog.umeng.com
+127.0.0.1 i.l.inmobicdn.net
 127.0.0.1 click.mediav.com
 127.0.0.1 pc1.da.mgtv.com
 127.0.0.1 static.mediav.com
@@ -2038,7 +2044,6 @@
 127.0.0.1 yellowhammerflashint188671193078.s.moatpixel.com
 127.0.0.1 adc3-assets.adcolony.com
 127.0.0.1 gammaplatform.com
-127.0.0.1 sdkm.w.inmobi.cn
 127.0.0.1 lightning.cnn.com
 127.0.0.1 e44177b6b805.cdn4.forter.com
 127.0.0.1 ociasb.adtiming.com
@@ -2386,7 +2391,6 @@
 127.0.0.1 adserving.speedshiftmedia.com
 127.0.0.1 fonts.ad.admitad.com
 127.0.0.1 personalization.centech.glulive.com
-127.0.0.1 pm.w55c.net
 127.0.0.1 a3811.casalemedia.com
 127.0.0.1 crid.bfmio.com
 127.0.0.1 ghent-gce-sc.bidswitch.net
@@ -2441,7 +2445,6 @@
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 cdn.inskinad.com
 127.0.0.1 analytics.shareaholic.com
-127.0.0.1 pd.sharethis.com
 127.0.0.1 latency.agoop.net
 127.0.0.1 ximad.com
 127.0.0.1 leadbolt.net
@@ -2767,7 +2770,6 @@
 127.0.0.1 warp.media.net
 127.0.0.1 stocks-analytics-events.apple.com
 127.0.0.1 recv-wd.gridsumdissector.com
-127.0.0.1 api.w.inmobi.com
 127.0.0.1 log.kuwo.cn
 127.0.0.1 cm.adskeeper.co.uk
 127.0.0.1 silver-fir.cd.segmentapis.com
@@ -2871,7 +2873,6 @@
 127.0.0.1 hbrc.pubnative.net
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 cat.va1.vip.prod.criteo.com
-127.0.0.1 api.popin.cc
 127.0.0.1 sjc-bid.contextweb.com
 127.0.0.1 analytics.bestbuy.com
 127.0.0.1 cm.ipinyou.com
@@ -2923,6 +2924,7 @@
 127.0.0.1 bs.eyeblaster.akadns.net
 127.0.0.1 a1423.casalemedia.com
 127.0.0.1 758.content.swrve.com
+127.0.0.1 events.appsflyer.com
 127.0.0.1 ads-mediafin.adhese.com
 127.0.0.1 sin1.ipromote.com
 127.0.0.1 hydra.alibaba.com
@@ -3069,7 +3071,6 @@
 127.0.0.1 ldynamicspublicapi.leadforensics.com
 127.0.0.1 saas.seewhy.com
 127.0.0.1 applogios.uc.cn
-127.0.0.1 bs.serving-sys.com
 127.0.0.1 sync-usva.tidaltv.com.akadns.net
 127.0.0.1 cm.t.tailtarget.com
 127.0.0.1 conup.gotrackier.com
@@ -3132,7 +3133,6 @@
 127.0.0.1 adserver-east.extend.tv
 127.0.0.1 sandbox.tinypass.com
 127.0.0.1 js.center.io
-127.0.0.1 ads.pro-market.net
 127.0.0.1 stats.sxp.smartclip.net
 127.0.0.1 engageya.com
 127.0.0.1 in-spiky.wzrkt.com
@@ -3552,9 +3552,7 @@
 127.0.0.1 mb-cdn.stocard.de
 127.0.0.1 cdn.permutive.com
 127.0.0.1 nr-events.taboola.com
-127.0.0.1 au.w.inmobi.com
 127.0.0.1 us-u.openx.net
-127.0.0.1 engine.spotscenered.info
 127.0.0.1 7f077.v.fwmrm.net
 127.0.0.1 wildcard.marketo.net.edgekey.net
 127.0.0.1 js.adsrvr.org
@@ -3911,7 +3909,6 @@
 127.0.0.1 agentchannel.api.duapp.com
 127.0.0.1 xdssp.mediav.com
 127.0.0.1 assets.connatix.com
-127.0.0.1 cdn.taboola.com
 127.0.0.1 ads.icloseli.com
 127.0.0.1 format.prod.cloud.ogury.io
 127.0.0.1 a.tribalfusion.com
@@ -4187,7 +4184,6 @@
 127.0.0.1 srepdata.usatoday.com
 127.0.0.1 pool.adizio.com
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
-127.0.0.1 i.w55c.net
 127.0.0.1 arm.c.appier.net
 127.0.0.1 sync-eu.connectad.io
 127.0.0.1 sxp.smartclip.net
@@ -4304,7 +4300,6 @@
 127.0.0.1 sec.umeng.com
 127.0.0.1 snowplow.ownlocal.com
 127.0.0.1 30819.content.swrve.com
-127.0.0.1 t.teads.tv
 127.0.0.1 smetrics.lululemon.com
 127.0.0.1 app-sj13.marketo.com
 127.0.0.1 prod-ms.applovin.com
@@ -4321,7 +4316,6 @@
 127.0.0.1 global.ymtracking.com
 127.0.0.1 stas.outbrain.com
 127.0.0.1 cdn.parsely.com
-127.0.0.1 stats3.unrulymedia.com
 127.0.0.1 api.target2sell.com
 127.0.0.1 pasta.estrongspro.duapps.com
 127.0.0.1 img.apester.com
@@ -4541,7 +4535,6 @@
 127.0.0.1 app-ab33.marketo.com
 127.0.0.1 telariaeventsbidder-east.extend.tv
 127.0.0.1 msdk.rqmob.com
-127.0.0.1 eus.rubiconproject.com
 127.0.0.1 apv-launcher.minute.ly
 127.0.0.1 metrilo.com
 127.0.0.1 match.bnmla.com
@@ -4575,7 +4568,6 @@
 127.0.0.1 androidsdk.ads.mp.mydas.mobi
 127.0.0.1 sdk.sharethrough.com
 127.0.0.1 tracking.retargeting.biz
-127.0.0.1 vz-cdn.trafficjunky.net
 127.0.0.1 engage8829thscr.deltadna.net
 127.0.0.1 o861134.ingest.sentry.io
 127.0.0.1 wo.gumgum.com
@@ -4621,7 +4613,6 @@
 127.0.0.1 serpens.iad.appboy.com
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 idg.blueconic.net
-127.0.0.1 sync.teads.tv
 127.0.0.1 net.salmonads.com
 127.0.0.1 ssl-avd.innity.net
 127.0.0.1 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
@@ -4652,7 +4643,6 @@
 127.0.0.1 cm.adkmob.com
 127.0.0.1 an.facebook.com
 127.0.0.1 nexstar.blueconic.net
-127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 cdn.petametrics.com
 127.0.0.1 mobileapi.usebutton.com
 127.0.0.1 a1278.casalemedia.com
@@ -4737,7 +4727,6 @@
 127.0.0.1 cortex.vidora.com
 127.0.0.1 tidaltv.com
 127.0.0.1 vap1ams1.lijit.com
-127.0.0.1 c.pub.network
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 api8.agilone.com
 127.0.0.1 planning-analytics.ibmcloud.com
@@ -4828,7 +4817,6 @@
 127.0.0.1 assets.emarsys.net
 127.0.0.1 tags.w55c.net
 127.0.0.1 cdn.brid.tv
-127.0.0.1 c1.popads.net
 127.0.0.1 tvpixel.com
 127.0.0.1 a1365.casalemedia.com
 127.0.0.1 btrll.com
@@ -5408,7 +5396,6 @@
 127.0.0.1 adservetx.media.net
 127.0.0.1 app.aflink.com
 127.0.0.1 a1370.casalemedia.com
-127.0.0.1 cdn.stickyadstv.com
 127.0.0.1 as.innity.com
 127.0.0.1 gum.da1.vip.prod.criteo.com
 127.0.0.1 geo.yahoo.com
@@ -5439,7 +5426,6 @@
 127.0.0.1 st-eu.dynamicyield.com
 127.0.0.1 app-sj16.marketo.com
 127.0.0.1 adnetwork.adasiaholdings.com
-127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 appflood.com
 127.0.0.1 sdklogs.avocarrot.com
 127.0.0.1 image.cauly.co.kr
@@ -5560,7 +5546,6 @@
 127.0.0.1 appload.ingest.crittercism.com
 127.0.0.1 int.vaicore.site
 127.0.0.1 p.presage.io
-127.0.0.1 cdn-settings.segment.com
 127.0.0.1 sdk-info.gimbal.com
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 ad-emea.doubleclick.net
@@ -5572,7 +5557,6 @@
 127.0.0.1 sjrtp6.marketo.com
 127.0.0.1 info.static.startappservice.com
 127.0.0.1 cdn.3lift.com
-127.0.0.1 a.pub.network
 127.0.0.1 g2c.cloud-elements.com
 127.0.0.1 cdn-3.convertexperiments.com
 127.0.0.1 adscale-emea.adnxs.com
@@ -5598,7 +5582,6 @@
 127.0.0.1 www.srmdata-us.com
 127.0.0.1 dat.funheroic.com
 127.0.0.1 dcinfos-cache.abtasty.com
-127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 bidr.io
 127.0.0.1 zplayer.trk.zapps.vn
 127.0.0.1 b.ns1p.net
@@ -5672,7 +5655,6 @@
 127.0.0.1 monitor.uu.qq.com
 127.0.0.1 api.verticalscope.com
 127.0.0.1 tap-cdn.rubiconproject.com
-127.0.0.1 targeting.unrulymedia.com
 127.0.0.1 prebid.cootlogix.com
 127.0.0.1 tracing-collector.strava.com
 127.0.0.1 payment.yodo1api.com
@@ -6102,7 +6084,6 @@
 127.0.0.1 amp.adpushup.com
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 outbrain.com.edgekey.net
-127.0.0.1 cm.steepto.com
 127.0.0.1 sp1cluster.cxense.com
 127.0.0.1 netmng.com
 127.0.0.1 app-aba.marketo.com
@@ -6110,7 +6091,6 @@
 127.0.0.1 sdk-orion.appboy.com
 127.0.0.1 macromill.com
 127.0.0.1 leanmobi.fusetracking.com
-127.0.0.1 cdn.popcash.net
 127.0.0.1 api.huq.io
 127.0.0.1 cdnimg.izooto.com
 127.0.0.1 redfast.com
@@ -6213,8 +6193,6 @@
 127.0.0.1 a1.adform.net
 127.0.0.1 app-ab08.marketo.com
 127.0.0.1 brand-sdk.kmsmep.com
-127.0.0.1 tapestry.tapad.com
-127.0.0.1 in.treasuredata.com
 127.0.0.1 cdn.uc.atwola.com
 127.0.0.1 mobile.ib.sin1.geoadnxs.com
 127.0.0.1 soundpublishing.blueconic.net
@@ -6878,7 +6856,6 @@
 127.0.0.1 bid.adview.cn
 127.0.0.1 ro-gmtdmp.mookie1.com
 127.0.0.1 ssp.send.microad.jp
-127.0.0.1 ads.scorecardresearch.com
 127.0.0.1 track.saygames.io
 127.0.0.1 cmp-lb-ap-southeast.tubemogul.com
 127.0.0.1 a.applovin.com
@@ -6908,7 +6885,6 @@
 127.0.0.1 sg01.rayjump.com
 127.0.0.1 apitm.toolmatrix.plus
 127.0.0.1 gtm04.nexac.com
-127.0.0.1 services.xg4ken.com
 127.0.0.1 hearst.amp.permutive.com
 127.0.0.1 ws.push-notifs.com
 127.0.0.1 events.tremorhub.com
@@ -7335,6 +7311,7 @@
 127.0.0.1 metrics.client-eng.a2z.com
 127.0.0.1 glitter.services.disqus.com
 127.0.0.1 jact.atdmt.com
+127.0.0.1 launches.appsflyer.com
 127.0.0.1 click.advertnative.com
 127.0.0.1 assets.locuslabs.com
 127.0.0.1 a3449.casalemedia.com
@@ -7363,7 +7340,6 @@
 127.0.0.1 log.sina.cn
 127.0.0.1 iad-06.braze.com
 127.0.0.1 hk-match.taboola.com
-127.0.0.1 bk.r-ad.ne.jp
 127.0.0.1 fl.a.ki
 127.0.0.1 iqdigital.demdex.net
 127.0.0.1 q.myvisualiq.net
@@ -7602,7 +7578,6 @@
 127.0.0.1 annoyingacoustics.com
 127.0.0.1 log.trackingio.com
 127.0.0.1 cdn.smartnews-ads.com
-127.0.0.1 et.w.inmobi.com
 127.0.0.1 fastapi.net
 127.0.0.1 cm.admaster.com.cn
 127.0.0.1 statsf.tubemogul.com
@@ -7712,7 +7687,6 @@
 127.0.0.1 secure-dcr.imrworldwide.com
 127.0.0.1 409.content.swrve.com
 127.0.0.1 pokkt.fuse-ad.com
-127.0.0.1 config.inmobi.com
 127.0.0.1 adhood.com
 127.0.0.1 na-ab26.marketo.com
 127.0.0.1 adobe.tt.omtrdc.net
@@ -7885,7 +7859,6 @@
 127.0.0.1 par.vip.prod.criteo.net
 127.0.0.1 ssbsync-geo.smartadserver.com
 127.0.0.1 evidon.com
-127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 vet-us-east-1.track.smaato.net
 127.0.0.1 rtb2.doubleverify.com
 127.0.0.1 secure-us.imrworldwide.com
@@ -7948,7 +7921,6 @@
 127.0.0.1 prd-collector-anon.ex.co
 127.0.0.1 p.dlx.addthis.com
 127.0.0.1 static.masoffer.net
-127.0.0.1 i.l.inmobicdn.net
 127.0.0.1 t2.hulu.com
 127.0.0.1 api.usabilla.com
 127.0.0.1 open.talk.igexin.com
@@ -8238,7 +8210,6 @@
 127.0.0.1 slckg-4znyf.ads.tremorhub.com
 127.0.0.1 video-assets.mathtag.com
 127.0.0.1 sync.taboola.com
-127.0.0.1 bam.nr-data.net
 127.0.0.1 matheranalytics.com
 127.0.0.1 a.adtechus.com
 127.0.0.1 c4dm.adcolony.com
@@ -8426,6 +8397,7 @@
 127.0.0.1 shop.spyoff.com
 127.0.0.1 static.uuzu.com
 127.0.0.1 vns8yhn.com
+127.0.0.1 engine.spotscenered.info
 127.0.0.1 update.123juzi.net
 127.0.0.1 mgid.com
 127.0.0.1 www.22222ke.com
@@ -8603,6 +8575,7 @@
 127.0.0.1 www.adultfriendfinder.com
 127.0.0.1 count20.51yes.com
 127.0.0.1 www.adsrvmedia.adk2x.com
+127.0.0.1 ads.scorecardresearch.com
 127.0.0.1 cdn.adsfactor.net
 127.0.0.1 count46.51yes.com
 127.0.0.1 get.sessions.exchange
@@ -8653,6 +8626,7 @@
 127.0.0.1 gif.lu.sogoucdn.com
 127.0.0.1 pushance.com
 127.0.0.1 xsa1.qwertdd.pw
+127.0.0.1 services.xg4ken.com
 127.0.0.1 www.beyondcompare.cc
 127.0.0.1 myhome.j8inn1zektoe.com
 127.0.0.1 s18.cnzz.com
@@ -8885,6 +8859,7 @@
 127.0.0.1 m2.afast.ws
 127.0.0.1 www.299rrr.com
 127.0.0.1 inter1ads.com
+127.0.0.1 cdn.stickyadstv.com
 127.0.0.1 3dns-3.adobe.com
 127.0.0.1 shadu.baidu.com
 127.0.0.1 www.lucky288.com
@@ -9051,6 +9026,7 @@
 127.0.0.1 www.360app.cn
 127.0.0.1 avavwz.com
 127.0.0.1 jsmcrjmp.com
+127.0.0.1 cdn.taboola.com
 127.0.0.1 ehousewife.net
 127.0.0.1 mc.yandex.ru
 127.0.0.1 www.649649.com
@@ -9103,6 +9079,7 @@
 127.0.0.1 www.btjhhb.com
 127.0.0.1 glxccx.hztaida.cn
 127.0.0.1 oztjye4lc.bkt.clouddn.com
+127.0.0.1 pm.w55c.net
 127.0.0.1 www.pj39330.bet
 127.0.0.1 buyu9921.com
 127.0.0.1 ol01l0.andad.work
@@ -9115,6 +9092,7 @@
 127.0.0.1 xmh-resc.9icph.cn
 127.0.0.1 www.extreme3d.games
 127.0.0.1 img1.mini.cache.wps.cn
+127.0.0.1 cdn-settings.segment.com
 127.0.0.1 reallesbianexposed.com
 127.0.0.1 www.houxingfu.com
 127.0.0.1 buyu011.com
@@ -9145,6 +9123,7 @@
 127.0.0.1 www.7089gg.com
 127.0.0.1 www.chntdnc.cn
 127.0.0.1 coinhive.com
+127.0.0.1 a.pub.network
 127.0.0.1 doublemax.net
 127.0.0.1 www.vns4394.com
 127.0.0.1 z.dwchaha.com
@@ -9183,6 +9162,7 @@
 127.0.0.1 homepage2.adnxs.com
 127.0.0.1 bongacams.com
 127.0.0.1 openbox.mobilem.360.cn
+127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 chinemiss.com
 127.0.0.1 sexy557.com
 127.0.0.1 buyu902.com
@@ -9194,6 +9174,7 @@
 127.0.0.1 static.popads.net
 127.0.0.1 assets.landerlabs.io
 127.0.0.1 mycleanmymac.com
+127.0.0.1 pd.sharethis.com
 127.0.0.1 s93.cnzz.com
 127.0.0.1 www.tagserve.asia
 127.0.0.1 qiyezs.ejunshi.com
@@ -9317,6 +9298,7 @@
 127.0.0.1 emoneyspace.com
 127.0.0.1 members.dagfs.com
 127.0.0.1 www.30007q.com
+127.0.0.1 targeting.unrulymedia.com
 127.0.0.1 buyu9988.com
 127.0.0.1 qianclick.baidu.com
 127.0.0.1 e.lndjj.com
@@ -9547,6 +9529,7 @@
 127.0.0.1 api.share.baidu.com
 127.0.0.1 jihehuaban.com.cn
 127.0.0.1 www.papapa.tv
+127.0.0.1 bk.r-ad.ne.jp
 127.0.0.1 clicklog.moviebox.baofeng.net
 127.0.0.1 hg417.bet
 127.0.0.1 yihuifu.cn
@@ -9598,6 +9581,7 @@
 127.0.0.1 wap.tanwan.com
 127.0.0.1 wooplr.j8inn1zektoe.com
 127.0.0.1 go.gotourls.bid
+127.0.0.1 i.w55c.net
 127.0.0.1 c19.statcounter.com
 127.0.0.1 p9.tribution.mobi
 127.0.0.1 www.66992949.com
@@ -9828,6 +9812,7 @@
 127.0.0.1 www.v8940m.com
 127.0.0.1 onclkds.com
 127.0.0.1 static.inter1ads.com
+127.0.0.1 t.teads.tv
 127.0.0.1 www.yzaosite.com
 127.0.0.1 home.youzu.com
 127.0.0.1 s10.cnzz.com
@@ -9858,6 +9843,7 @@
 127.0.0.1 wpc.32df9.rhocdn.net
 127.0.0.1 secure.fastclick.net
 127.0.0.1 count50.51yes.com
+127.0.0.1 stats3.unrulymedia.com
 127.0.0.1 mobile.beike188.com
 127.0.0.1 sobar.baidu.com
 127.0.0.1 www.boma686.com
@@ -10020,6 +10006,7 @@
 127.0.0.1 s7.cnzz.com
 127.0.0.1 ah116.net
 127.0.0.1 jin.7377727.com
+127.0.0.1 api.popin.cc
 127.0.0.1 karonty.com
 127.0.0.1 speednetwork14.adk2x.com
 127.0.0.1 galaxy.sogoucdn.com
@@ -10073,6 +10060,7 @@
 127.0.0.1 s119.cnzz.com
 127.0.0.1 buyu9981.com
 127.0.0.1 xne1ocient87zxz.360doc.cn
+127.0.0.1 cm.steepto.com
 127.0.0.1 bg339.com
 127.0.0.1 click.jasmin.com
 127.0.0.1 nextlnk6.com
@@ -10085,6 +10073,7 @@
 127.0.0.1 ad4.contentabc.com
 127.0.0.1 v12.cnzz.com
 127.0.0.1 s1.szlu-an.com
+127.0.0.1 cdn.popcash.net
 127.0.0.1 www.emoneyspace.com
 127.0.0.1 wap.j8inn1zektoe.com
 127.0.0.1 k0398.com
@@ -10207,6 +10196,7 @@
 127.0.0.1 sha2013.com
 127.0.0.1 licertle.co
 127.0.0.1 spacenine.genieesspv.jp
+127.0.0.1 eus.rubiconproject.com
 127.0.0.1 p3og44hs7.bkt.clouddn.com
 127.0.0.1 www.77545.com
 127.0.0.1 bdimg.share.baidu.com
@@ -10261,11 +10251,13 @@
 127.0.0.1 www.qooww.com
 127.0.0.1 www.nwww.gkxs.com
 127.0.0.1 f2.mtqys.com
+127.0.0.1 tapestry.tapad.com
 127.0.0.1 track.adrunnr.com
 127.0.0.1 buyu9983.com
 127.0.0.1 count25.51yes.com
 127.0.0.1 toolbar.soso.com
 127.0.0.1 cdn.doublemax.net
+127.0.0.1 in.treasuredata.com
 127.0.0.1 help.exoclick.com
 127.0.0.1 mapping.yoyi.com.cn
 127.0.0.1 ap.adriver.ru
@@ -10278,6 +10270,7 @@
 127.0.0.1 www.keyshot.cc
 127.0.0.1 tx2play1.douyucdn.cn
 127.0.0.1 hm3.cnzz.com
+127.0.0.1 vz-cdn.trafficjunky.net
 127.0.0.1 cootek-file.cdn.cootekservice.com
 127.0.0.1 www.50508894.com
 127.0.0.1 x33309.com
@@ -10361,6 +10354,7 @@
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 dl.ops.baidu.com
 127.0.0.1 999.2shoushi.com
+127.0.0.1 sync.teads.tv
 127.0.0.1 gold.szonline.net
 127.0.0.1 www.55749.net
 127.0.0.1 s94.cnzz.com
@@ -10375,6 +10369,7 @@
 127.0.0.1 ads.ero-advertising.com
 127.0.0.1 www.150557f.com
 127.0.0.1 anquan.baidu.com
+127.0.0.1 bs.serving-sys.com
 127.0.0.1 idctj.cn
 127.0.0.1 www.6160666.com
 127.0.0.1 ctwfan.cn
@@ -10429,6 +10424,7 @@
 127.0.0.1 wan.sogou.com
 127.0.0.1 cdn.jesgoo.com
 127.0.0.1 a6.codejumps.com
+127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 buyu9999.com
 127.0.0.1 v9.cnzz.com
 127.0.0.1 p.kf3msfm.com
@@ -10528,6 +10524,7 @@
 127.0.0.1 www.7969sj.com
 127.0.0.1 www.xmtrk.com
 127.0.0.1 pcstore.com.tw
+127.0.0.1 ads.pro-market.net
 127.0.0.1 vns4392.com
 127.0.0.1 count22.51yes.com
 127.0.0.1 t.frtyk.com
@@ -10624,6 +10621,7 @@
 127.0.0.1 wr.da.netease.com
 127.0.0.1 www.56711.com
 127.0.0.1 fiva.fingerjoys.com
+127.0.0.1 c.pub.network
 127.0.0.1 game.fire2333.com
 127.0.0.1 activate.adobe.com
 127.0.0.1 m.ybstwl.com
@@ -10762,6 +10760,7 @@
 127.0.0.1 buyu9903.com
 127.0.0.1 c14.statcounter.com
 127.0.0.1 360kan.com.cn
+127.0.0.1 c1.popads.net
 127.0.0.1 fj.youzu.com
 127.0.0.1 widget.intercom.io
 127.0.0.1 go.strpjmp.com
@@ -11111,6 +11110,7 @@
 127.0.0.1 c28.statcounter.com
 127.0.0.1 20786993p.rfihub.com
 127.0.0.1 www.imindmap.cc
+127.0.0.1 bam.nr-data.net
 127.0.0.1 storage.anastasiadate.com
 127.0.0.1 tamgrt.com
 127.0.0.1 api-iam.intercom.io
@@ -11183,11 +11183,9 @@
 ! 👇This Part Merge from: sccheng460 me (https://raw.githubusercontent.com/sccheng460/me/master/rules.txt)
 127.0.0.1 tz.sec.xiaomi.com
 127.0.0.1 tmfsdk.m.qq.com
-140.82.114.18                 github.community
 127.0.0.1 child.sec.miui.com
 127.0.0.1 sf0.market.xiaomi.com
 127.0.0.1 test-api-installer.pt.xiaomi.com
-16.182.101.57                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.110.133               camo.githubusercontent.com
 127.0.0.1 api-middle.transfer.sec.miui.com
 127.0.0.1 link.g.mi.com
@@ -11198,6 +11196,8 @@
 127.0.0.1 privacy.api.intl.miui.com
 20.205.243.166                gist.github.com
 127.0.0.1 api.sec.miui.com
+52.217.86.52                  github-production-release-asset-2e65be.s3.amazonaws.com
+140.82.112.21                 collector.github.com
 127.0.0.1 connect-milink.g.mi.com
 127.0.0.1 v.id.mi.com
 185.199.110.133               raw.githubusercontent.com
@@ -11210,30 +11210,28 @@
 185.199.111.153               github.io
 13.107.246.73                 vscode.dev  # Timeout
 127.0.0.1 jupiter.intl.sys.miui.com
-52.217.229.9                  github-production-release-asset-2e65be.s3.amazonaws.com
 127.0.0.1 staging.tracking.miui.com
 185.199.110.133               avatars4.githubusercontent.com
-140.82.113.21                 api.individual.githubcopilot.com
 127.0.0.1 analytics.miui.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.110.133               desktop.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
+3.5.16.19                     github-production-user-asset-6210df.s3.amazonaws.com
 127.0.0.1 staging.sdkconfig.ad.xiaomi.srv
 127.0.0.1 api.kingdata.ksyun.com
 127.0.0.1 lbs.map.qq.com
 127.0.0.1 adv.sec.intl.miui.com
+140.82.112.22                 central.github.com
 127.0.0.1 jupiter.sys.miui.com
 185.199.110.133               cloud.githubusercontent.com
 127.0.0.1 preview-jupiter.sys.miui.com
 127.0.0.1 sdkconfig.ad.rus.xiaomi.com
 127.0.0.1 data.game.xiaomi.com
-52.216.56.49                  github-production-user-asset-6210df.s3.amazonaws.com
 127.0.0.1 open.account.xiaomi.com
 20.205.243.166                github.com
 127.0.0.1 embed.sec.miui.com
 140.82.114.22                 education.github.com
 185.199.110.133               media.githubusercontent.com
-140.82.112.21                 central.github.com
 185.199.110.133               avatars0.githubusercontent.com
 127.0.0.1 api.installer.xiaomi.com
 127.0.0.1 c.id.mi.com
@@ -11247,7 +11245,9 @@
 127.0.0.1 flash.sec.miui.com
 127.0.0.1 data.sec.intl.miui.com
 127.0.0.1 auth.be.sec.miui.com
+140.82.112.22                 api.individual.githubcopilot.com
 20.205.243.168                api.github.com
+140.82.112.26                 live.github.com
 185.199.110.133               avatars2.githubusercontent.com
 127.0.0.1 api.miui.security.xiaomi.com
 127.0.0.1 centertime.ksyun.com
@@ -11259,8 +11259,8 @@
 185.199.110.133               avatars3.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
 127.0.0.1 miav-cse.avlyun.com
-3.5.2.122                     github-cloud.s3.amazonaws.com
-140.82.113.26                 live.github.com
+140.82.112.18                 github.community
+3.5.27.203                    github-production-repository-file-5c1aeb.s3.amazonaws.com
 127.0.0.1 api-installer.pt.xiaomi.com
 185.199.110.133               user-images.githubusercontent.com
 127.0.0.1 child.sec.intl.miui.com
@@ -11271,7 +11271,6 @@
 127.0.0.1 advsec.miui.com
 127.0.0.1 ota.miuipro.org
 127.0.0.1 rom.pt.miui.srv
-140.82.112.22                 collector.github.com
 127.0.0.1 api.hybrid.xiaomi.com
 127.0.0.1 miuipro.info
 127.0.0.1 a0.app.xiaomi.com
@@ -11281,12 +11280,13 @@
 185.199.110.133               avatars5.githubusercontent.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.111.153               githubstatus.com
+3.5.28.179                    github-com.s3.amazonaws.com
+3.5.27.203                    github-cloud.s3.amazonaws.com
 127.0.0.1 gamebox.sec.miui.com
 127.0.0.1 api.jr.mi.com
 127.0.0.1 act.account.xiaomi.com
 185.199.110.133               private-user-images.githubusercontent.com
 127.0.0.1 api.developer.xiaomi.com
-54.231.129.65                 github-com.s3.amazonaws.com
 127.0.0.1 ota.miuipro.ru
 127.0.0.1 find.api.micloud.xiaomi.net
 127.0.0.1 cdn.exp.xiaomi.com
@@ -12175,7 +12175,6 @@
 127.0.0.1 hub5u.wap.sandai.net
 127.0.0.1 res-push.ad.jiguang.cn
 127.0.0.1 bbs.mob.com
-140.82.112.22                 central.github.com
 127.0.0.1 api-md.dutils.com
 127.0.0.1 f-cashloan.snssdk.com
 127.0.0.1 i-shadow2.ke.com
@@ -12628,7 +12627,6 @@
 127.0.0.1 p6-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 vshi.tc.qq.com
 127.0.0.1 restapi.getui.cn
-140.82.112.26                 live.github.com
 127.0.0.1 ocpx.adwangmai.com
 127.0.0.1 download.sdk.mob.com
 127.0.0.1 api.moblink.mob.com
